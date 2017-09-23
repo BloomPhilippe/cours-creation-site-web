@@ -46,7 +46,7 @@ Pour rechercher un package ou trouver la documentation d'un package en particuli
 
 Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviation de code, de raccourcis et bien plus encore.
 
-Liens : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
+Lien : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
 
 **Exemple d'abréviation :**
 
@@ -104,6 +104,13 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 
 
+#### GotoDocumentation
+
+Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
+
+Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
+
+Utilisation : <kbd>![Windows Key][newwinlogo]</kbd> + <kbd>Shift</kbd> + h
 
 ## Liens utiles
 

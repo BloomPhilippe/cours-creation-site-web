@@ -78,9 +78,21 @@ En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
 
 **Raccourcis  intéressants :**
 
+1. Monter ou déscendre une ligne entière de votre code
+
 ctrl+shift+up ou ctrl+shift+down
 
 ![ctrl+shift](sublime-text/video/emmet-move.gif)
+
+2. Selection progressive
+
+shift+up &uparrow;
+shift+down
+shift+left
+shift+right
+
+![shift+direction](sublime-text/video/select-code.gif)
+
 
 
 #### GotoDocumentation

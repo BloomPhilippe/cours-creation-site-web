@@ -33,5 +33,49 @@ Pour installer un package, cliquer sur ctrl+p taper install et cliquer sur Insta
 
 ![cover](sublime-text/img/package-2.png)
 
+Pour rechercher un package ou trouver la documentation d'un package en particulier, vous pouvez aller aussi sur [https://packagecontrol.io/](https://packagecontrol.io/)
+
 
 ### Packages incontournables
+
+
+1. Emmet
+
+Liens : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
+
+Exemple d'utilisation : 
+
+En tapant le code ```ul>li*4>a``` puis sur TAB, vous obtenez le code ci-dessous
+
+```html
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+```
+
+En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+```
+
+2. 
+
+
+## Liens utiles
+
+- [Documentation](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+
+- [https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2](https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2)

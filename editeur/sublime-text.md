@@ -18,6 +18,10 @@ Voici les raccourcis MacOS sur ce [lien](sublime-text/pdf/racourcis-osx.pdf)
 
 Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous coder.
 
+**Vous allez surement chercher après le racourcis qui va indenter votre code...** 
+De base, il n'en existe pas, voici la procédure :
+
+![indent](sublime-text/video/indent.gif)
 
 ## Packages
 

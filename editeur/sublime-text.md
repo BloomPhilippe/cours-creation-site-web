@@ -75,8 +75,7 @@ En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
 
 **Raccourcis  intéressants :**
 
-ctrl+shift+up
-ctrl+shift+down
+ctrl+shift+up ou ctrl+shift+down
 
 ![ctrl+shift](sublime-text/video/emmet-move.gif)
 

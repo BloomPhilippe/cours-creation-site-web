@@ -102,13 +102,17 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 #### SublimeLinter
 
-Ce module permet les errors liée à votre code
+Ce module permet les errors liée à votre code.
 
 Lien : [Documentation](http://sublimelinter.readthedocs.io/en/latest/installation.html)
 Lien : [GitHub](https://github.com/SublimeLinter/SublimeLinter3)
 
 HTML : [SublimeLinter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
 CSS : [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
+
+````
+npm install -g csslint
+````
 PHP : [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
 
 
@@ -321,3 +325,5 @@ En tapant le code ```jumbotron``` puis sur <kbd>tab</kbd>, vous obtenez le code 
 - [Documentation](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 
 - [https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2](https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2)
+
+- [Documentation Linter](http://borntocode.fr/sublime-text-2-configurer-sublimelinter-pour-afficher-ses-erreurs/)

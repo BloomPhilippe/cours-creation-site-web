@@ -111,6 +111,14 @@ Lien : [https://packagecontrol.io/packages/SideBarEnhancements](https://packagec
 ![sans module](sublime-text/img/sidebar.png)
 
 
+
+#### Doc​Blockr
+
+Ce module permet de commenter vos fonction PHP, Javascript, etc...
+
+Lien : [https://packagecontrol.io/packages/DocBlockr](https://packagecontrol.io/packages/DocBlockr)
+
+
 #### GotoDocumentation
 
 Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
@@ -118,6 +126,17 @@ Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce 
 Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
 
 Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
+
+
+#### Bootstrap 4 Autocomplete
+
+Ce module permet d'automatiquement completer vos attribut class avec les class existantes de Bootstrap 4
+
+Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
+
+![bs4-auto](sublime-text/video/bs4-auto.gif)
+
+
 
 ## Liens utiles
 

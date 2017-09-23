@@ -121,7 +121,7 @@ Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce 
 
 Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
 
-Utilisation : <kbd>[Windows]</kbd> + <kbd>Shift</kbd> + h
+Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 ## Liens utiles
 

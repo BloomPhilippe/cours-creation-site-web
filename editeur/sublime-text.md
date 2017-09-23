@@ -80,7 +80,9 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 1. Monter ou déscendre une ligne entière de votre code
 
-ctrl+shift+up ou ctrl+shift+down
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + &uparrow;
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + &downarrow;
 
 ![ctrl+shift](sublime-text/video/emmet-move.gif)
 

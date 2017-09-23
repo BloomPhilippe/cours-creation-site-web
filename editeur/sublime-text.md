@@ -128,6 +128,7 @@ Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecon
 Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 
+
 #### Bootstrap 4 Autocomplete
 
 Ce module permet d'automatiquement completer vos attribut class avec les class existantes de Bootstrap 4
@@ -136,6 +137,42 @@ Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete](https:/
 
 ![bs4-auto](sublime-text/video/bs4-auto.gif)
 
+
+
+#### Bootstrap 4 Snippets
+
+Ce module permet d'obtenir de nombreux snippets Bootstrap 4
+
+Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Snippets](https://packagecontrol.io/packages/Bootstrap%204%20Snippets)
+
+**Exemple de snippets :**
+
+En tapant le code ```cards``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-dessous
+
+````html
+    <div class="card">
+      <img class="card-img-top" data-src="holder.js/100%x180/" alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">Card title</h4>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Button</a>
+      </div>
+    </div>
+````
+
+En tapant le code ```jumbotron``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-dessous
+
+````html
+    <div class="jumbotron">
+      <h1 class="display-3">Hello, world!</h1>
+      <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <hr class="m-y-md">
+      <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </p>
+    </div>
+````
 
 
 ## Liens utiles

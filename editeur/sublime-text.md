@@ -50,7 +50,7 @@ Liens : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/pac
 
 **Exemple d'abréviation :**
 
-En tapant le code ```ul>li*4>a``` puis sur TAB, vous obtenez le code ci-dessous
+En tapant le code ```ul>li*4>a``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-dessous
 
 ```html
 <ul>
@@ -61,7 +61,7 @@ En tapant le code ```ul>li*4>a``` puis sur TAB, vous obtenez le code ci-dessous
 </ul>
 ```
 
-En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
+En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-dessous
 
 ```html
 <!DOCTYPE html>
@@ -88,11 +88,11 @@ ctrl+shift+up ou ctrl+shift+down
 
 <kbd>Shift</kbd> + &uparrow;
 
-shift+down
+<kbd>Shift</kbd> + &downarrow;
 
-shift+left
+<kbd>Shift</kbd> + &leftarrow;
 
-shift+right
+<kbd>Shift</kbd> + &rightarrow;
 
 ![shift+direction](sublime-text/video/select-code.gif)
 

@@ -28,3 +28,7 @@ Afin d'installer les packages plus facilement, vous devez installer le "Package 
 Pour vérifier si Package Control fonctionne, cliquer sur ctrl+p et dans le champ texte, taper package.
 
 ![cover](sublime-text/img/package-1.png)
+
+Pour installer un package, cliquer sur ctrl+p taper install et cliquer sur Install Package. Une deuxième popup va apparaître, dans celle-ci taper le nom du module souhaité et cliquer dessus.
+
+![cover](sublime-text/img/package-2.png)

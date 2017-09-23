@@ -10,7 +10,7 @@ Il est possible de l'obtenir en version portable!
 
 Lorsque vous travaillez avec un éditeur de texte, il est préférable de connaitre les racourcis clavier.
 
-Chaque éditeur a ses propre racourcis!
+Chaque éditeur a ses propres racourcis!
 
 Voici les raccourcis Windows sur ce [lien](sublime-text/pdf/racourcis-windows.pdf)
 
@@ -28,7 +28,7 @@ Les packages sont des modules qui permettent d'ajouter de nouvelles fonctionnali
 
 Afin d'installer les packages plus facilement, vous devez installer le "Package Control" en allant dans "Tools" puis cliquer sur Install Package Control...
 
-Pour vérifier si Package Control fonctionne, cliquer sur ctrl+p et dans le champ texte, taper package.
+Pour vérifier si Package Control fonctionne, cliquer sur <kbd>Ctrl</kbd> + <kbd>p</kbd> et dans le champ texte, taper package.
 
 ![cover](sublime-text/img/package-1.png)
 
@@ -78,7 +78,7 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 **Raccourcis  intéressants :**
 
-1. Monter ou déscendre une ligne entière de votre code
+1. Monter ou descendre une ligne entière de votre code
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + &uparrow;
 
@@ -131,7 +131,7 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 #### Bootstrap 4 Autocomplete
 
-Ce module permet d'automatiquement completer vos attribut class avec les class existantes de Bootstrap 4
+Ce module permet d'automatiquement completer vos attributs class avec les class existantes de Bootstrap 4
 
 Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
 

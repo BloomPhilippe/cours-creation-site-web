@@ -2,7 +2,7 @@
 
 ## Choisir
 
-Il y de nombreux éditeur de texte comme :
+Il y de nombreux éditeurs de texte comme :
 
 - [Sublime Text](https://www.sublimetext.com) (gratuit)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) (payant)

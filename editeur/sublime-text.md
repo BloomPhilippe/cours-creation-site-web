@@ -16,3 +16,15 @@ Voici les raccourcis Windows sur ce [lien](sublime-text/pdf/racourcis-windows.pd
 
 Voici les raccourcis MacOS sur ce [lien](sublime-text/pdf/racourcis-osx.pdf)
 
+Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous coder.
+
+
+## Packages
+
+Les packages sont des modules qui permettent d'ajouter de nouvelles fonctionnalités à Sublime Text. Par exemple, si vous coder en HTML, il y a des modules qui permettent de vérifier la syntaxe de votre code et de vous alerter.
+
+Afin d'installer les packages plus facilement, vous devez installer le "Package Control" en allant dans "Tools" puis cliquer sur Install Package Control...
+
+Pour vérifier si Package Control fonctionne, cliquer sur ctrl+p et dans le champ texte, taper package.
+
+![cover](sublime-text/img/package-1.png)

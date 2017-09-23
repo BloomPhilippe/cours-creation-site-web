@@ -45,7 +45,7 @@ Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abr
 
 Liens : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
 
-**Exemple d'utilisation : **
+**Exemple d'utilisation :**
 
 En tapant le code ```ul>li*4>a``` puis sur TAB, vous obtenez le code ci-dessous
 
@@ -74,6 +74,8 @@ En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
 ```
 
 **Raccourcis  intéressants :**
+
+
 
 #### GotoDocumentation
 

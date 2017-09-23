@@ -20,7 +20,7 @@ Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous
 
 **Vous allez surement chercher après le racourcis qui va indenter votre code... De base, il n'en existe pas!** 
 
-![indent](sublime-text/video/indent.gif)
+![indent](sublime-text/video/indent-code.gif)
 
 ## Packages
 

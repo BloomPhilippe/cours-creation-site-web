@@ -39,11 +39,13 @@ Pour rechercher un package ou trouver la documentation d'un package en particuli
 ### Packages incontournables
 
 
-1. Emmet
+#### Emmet
+
+Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviation de code, de raccourcis et bien plus encore.
 
 Liens : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
 
-Exemple d'utilisation : 
+**Exemple d'utilisation : **
 
 En tapant le code ```ul>li*4>a``` puis sur TAB, vous obtenez le code ci-dessous
 
@@ -71,7 +73,11 @@ En tapant le code ```html:5``` puis sur TAB, vous obtenez le code ci-dessous
 </html>
 ```
 
-2. 
+**Raccourcis  intéressants :**
+
+#### GotoDocumentation
+
+
 
 
 ## Liens utiles

@@ -106,13 +106,9 @@ Ce module permet d'obtenir des options supplémentaires lorqu'on clique la sideb
 
 Lien : [https://packagecontrol.io/packages/SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 
-**Sans le module**
+**Sans et avec le module**
 
-![sans module](sublime-text/img/sidebar-1.png)
-
-**Avec le module**
-
-![sans module](sublime-text/img/sidebar-2.png)
+![sans module](sublime-text/img/sidebar.png)
 
 
 #### GotoDocumentation

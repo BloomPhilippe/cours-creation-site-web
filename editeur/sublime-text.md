@@ -157,6 +157,26 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 
 
+#### Color Highlighter
+
+Ce module permet de visualiser la couleur correspondant à un code couleur
+
+Lien : [https://packagecontrol.io/packages/Color%20Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+
+
+![color](sublime-text/video/color-show.gif)
+
+
+#### ColorPicker
+
+Ce module permet d'utiliser un color picker pour vos fichier CSS
+
+Lien : [https://packagecontrol.io/packages/ColorPicker](https://packagecontrol.io/packages/ColorPicker)
+
+Utilisation : <kbd>ctrl</kbd> + <kbd>Shift</kbd> + c
+
+
+
 #### Case Conversion
 
 Ce module permet de modifier le formatage d'un texte

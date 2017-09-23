@@ -100,8 +100,19 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 
 
-#### GotoDocumentation
+#### Side​Bar​Enhancements
 
+Ce module permet d'obtenir des options supplémentaires lorqu'on clique la sidebar du projet
+
+Lien : [https://packagecontrol.io/packages/SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+
+**Sans le module**
+
+![sans module](sublime-text/img/sidebar-1.png)
+
+**Avec le module**
+
+![sans module](sublime-text/img/sidebar-2.png)
 
 
 #### GotoDocumentation

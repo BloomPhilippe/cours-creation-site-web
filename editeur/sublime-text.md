@@ -86,9 +86,12 @@ ctrl+shift+up ou ctrl+shift+down
 
 2. Selection progressive
 
-shift+up &uparrow;
+<kbd>Shift</kbd> + &uparrow;
+
 shift+down
+
 shift+left
+
 shift+right
 
 ![shift+direction](sublime-text/video/select-code.gif)

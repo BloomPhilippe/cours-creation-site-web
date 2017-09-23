@@ -129,6 +129,78 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 
 
+#### Case Conversion
+
+Ce module permet de modifier le formatage d'un texte
+
+Lien : [hhttps://packagecontrol.io/packages/Case%20Conversion](https://packagecontrol.io/packages/Case%20Conversion)
+
+**Raccourcis :**
+
+Certains raccourcis vont par 2 !
+
+- Séparer plusieurs textes par un espace
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>w</kbd>
+
+- Convertir le texte en minuscule
+
+<kbd>Ctrl</kbd> + <kbd>k</kbd>
+<kbd>Ctrl</kbd> + <kbd>L</kbd>
+
+- Convertir le texte en Majuscule
+
+<kbd>Ctrl</kbd> + <kbd>k</kbd>
+<kbd>Ctrl</kbd> + <kbd>u</kbd>
+
+- Séparer chaques textes par une majuscule (PascalCase)
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd>
+
+- Chaques textes à une majuscule sauf le premier (camelCase)
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+
+- Séparer chaques textes par un underscore (snake_case)
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>s</kbd>
+
+- Séparer chaques textes par un tiret (dash-case)
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>h</kbd>
+
+- Séparer chaques textes par un point (dot.case)
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>d</kbd>
+
+- Passer d'un formatage à l'autre entre snake_case à PascalCase et camelCase
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+
+#### Bracket​Highlighter
+
+Ce module permet de vous indiquer où se situe le tag de fermeture, la fin d'une fonction, etc...
+
+Lien : [https://packagecontrol.io/packages/BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
+
+
+
+#### GotoDocumentation
+
+Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
+
+Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
+
+Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
+
+
+
 #### Bootstrap 4 Autocomplete
 
 Ce module permet d'automatiquement completer vos attributs class avec les class existantes de Bootstrap 4

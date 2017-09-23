@@ -32,3 +32,6 @@ Pour vérifier si Package Control fonctionne, cliquer sur ctrl+p et dans le cham
 Pour installer un package, cliquer sur ctrl+p taper install et cliquer sur Install Package. Une deuxième popup va apparaître, dans celle-ci taper le nom du module souhaité et cliquer dessus.
 
 ![cover](sublime-text/img/package-2.png)
+
+
+### Packages incontournables

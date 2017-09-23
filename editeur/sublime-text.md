@@ -183,6 +183,8 @@ Certains raccourcis vont par 2 !
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 
+
+
 #### Bracket​Highlighter
 
 Ce module permet de vous indiquer où se situe le tag de fermeture, la fin d'une fonction, etc...

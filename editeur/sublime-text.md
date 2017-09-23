@@ -119,6 +119,34 @@ Ce module permet de commenter vos fonction PHP, Javascript, etc...
 Lien : [https://packagecontrol.io/packages/DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 
 
+
+#### Alignment
+
+Ce module permet d'aligner un tableau PHP, Javascript
+
+Lien : [https://packagecontrol.io/packages/Alignment](https://packagecontrol.io/packages/Alignment)
+
+Configuration :
+
+- Aller dans Preferences > Package Settings > Alignment > Settings - User
+- Ajouter le code ci-dessous :
+
+````
+{
+    // The mid-line characters to align in a multi-line selection, changing
+    // this to an empty array will disable mid-line alignment
+    "alignment_chars": [
+        "=", ":"
+    ]
+}
+````
+
+Utilisation : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>a</kbd>
+
+![align](sublime-text/video/align-action.gif)
+
+
+
 #### GotoDocumentation
 
 Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.

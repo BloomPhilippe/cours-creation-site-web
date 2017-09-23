@@ -12,7 +12,7 @@ Lorsque vous travaillez avec un éditeur de texte, il est préférable de connai
 
 Chaque éditeur a ses propre racourcis!
 
-Voici les raccourcis Windows sur ce [lien](pdf/racourcis-windows.pdf)
+Voici les raccourcis Windows sur ce [lien](sublime-text/pdf/racourcis-windows.pdf)
 
-Voici les raccourcis MacOS sur ce [lien](pdf/racourcis-osx.pdf)
+Voici les raccourcis MacOS sur ce [lien](sublime-text/pdf/racourcis-osx.pdf)
 

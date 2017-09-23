@@ -21,3 +21,4 @@ Garder à l'esprit qu'il faut choisir l'éditeur avec lequel on se sent à l'ais
 ## Liens utiles
 
 - [raccourcis clavier](https://www.cheatography.com/)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

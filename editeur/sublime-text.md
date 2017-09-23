@@ -100,6 +100,25 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 
 
+#### SublimeLinter
+
+Ce module permet les errors liée à votre code
+
+Lien : [Documentation](http://sublimelinter.readthedocs.io/en/latest/installation.html)
+Lien : [GitHub](https://github.com/SublimeLinter/SublimeLinter3)
+
+HTML : [SublimeLinter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
+CSS : [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
+PHP : [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
+
+
+
+#### All Autocomplete
+
+Lien : [https://packagecontrol.io/packages/All%20Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)
+
+
+
 #### Side​Bar​Enhancements
 
 Ce module permet d'obtenir des options supplémentaires lorqu'on clique la sidebar du projet

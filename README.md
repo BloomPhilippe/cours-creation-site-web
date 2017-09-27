@@ -4,4 +4,4 @@
 
 
 - [Choisir et paramétrer son éditeur de code](editeur/editeur.md)
-- [Concaténer, minifier, compolier, etc...](compilateur/compilateur.md)
+- [Concaténer, minifier, compilier, etc...](compilateur/compilateur.md)

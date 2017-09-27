@@ -3,4 +3,5 @@
 ## Table des matières
 
 
-1. [Choisir et paramétrer son éditeur de texte](editeur/editeur.md)
+- [Choisir et paramétrer son éditeur de code](editeur/editeur.md)
+- [Concaténer, minifier, compolier, etc...](compilateur/compilateur.md)

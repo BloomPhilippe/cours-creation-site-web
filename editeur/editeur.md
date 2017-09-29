@@ -15,7 +15,7 @@ Garder à l'esprit qu'il faut choisir l'éditeur avec lequel on se sent à l'ais
 
 ## Paramétrer
 
-- [Sublime Text](sublime-text.md)
+- [Sublime Text](sublime-text/sublime-text.md)
 
 
 ## Liens utiles

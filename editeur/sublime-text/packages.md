@@ -1,48 +1,7 @@
-# Sublime Text
-
-## Installation
-
-Vous pouvez aller sur ce [lien](https://www.sublimetext.com) afin de télécharger Sublime text.
-
-Il est possible de l'obtenir en version portable!
-
-## Raccourcis
-
-Lorsque vous travaillez avec un éditeur de texte, il est préférable de connaitre les racourcis clavier.
-
-Chaque éditeur a ses propres racourcis!
-
-Voici les raccourcis Windows sur ce [lien](sublime-text/pdf/racourcis-windows.pdf)
-
-Voici les raccourcis MacOS sur ce [lien](sublime-text/pdf/racourcis-osx.pdf)
-
-Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous coder.
-
-**Vous allez surement chercher après le racourcis qui va indenter votre code... De base, il n'en existe pas!** 
-
-![indent](sublime-text/video/indent-code.gif)
-
-## Packages
-
-Les packages sont des modules qui permettent d'ajouter de nouvelles fonctionnalités à Sublime Text. Par exemple, si vous coder en HTML, il y a des modules qui permettent de vérifier la syntaxe de votre code et de vous alerter.
-
-Afin d'installer les packages plus facilement, vous devez installer le "Package Control" en allant dans "Tools" puis cliquer sur Install Package Control...
-
-Pour vérifier si Package Control fonctionne, cliquer sur <kbd>Ctrl</kbd> + <kbd>p</kbd> et dans le champ texte, taper package.
-
-![cover](sublime-text/img/package-1.png)
-
-Pour installer un package, cliquer sur ctrl+p taper install et cliquer sur Install Package. Une deuxième popup va apparaître, dans celle-ci taper le nom du module souhaité et cliquer dessus.
-
-![cover](sublime-text/img/package-2.png)
-
-Pour rechercher un package ou trouver la documentation d'un package en particulier, vous pouvez aller aussi sur [https://packagecontrol.io/](https://packagecontrol.io/)
+# Packages incontournables
 
 
-### Packages incontournables
-
-
-#### Emmet
+## Emmet
 
 Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviation de code, de raccourcis et bien plus encore.
 
@@ -100,7 +59,7 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 
 
-#### SublimeLinter
+## SublimeLinter
 
 Ce module permet les errors liée à votre code.
 
@@ -117,13 +76,13 @@ PHP : [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
 
 
 
-#### All Autocomplete
+## All Autocomplete
 
 Lien : [https://packagecontrol.io/packages/All%20Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)
 
 
 
-#### Side​Bar​Enhancements
+## Side​Bar​Enhancements
 
 Ce module permet d'obtenir des options supplémentaires lorqu'on clique la sidebar du projet
 
@@ -135,7 +94,7 @@ Lien : [https://packagecontrol.io/packages/SideBarEnhancements](https://packagec
 
 
 
-#### Doc​Blockr
+## Doc​Blockr
 
 Ce module permet de commenter vos fonction PHP, Javascript, etc...
 
@@ -143,7 +102,7 @@ Lien : [https://packagecontrol.io/packages/DocBlockr](https://packagecontrol.io/
 
 
 
-#### Alignment
+## Alignment
 
 Ce module permet d'aligner un tableau PHP, Javascript
 
@@ -170,7 +129,7 @@ Utilisation : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>a</kbd>
 
 
 
-#### GotoDocumentation
+## GotoDocumentation
 
 Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
 
@@ -180,7 +139,7 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + h
 
 
 
-#### Color Highlighter
+## Color Highlighter
 
 Ce module permet de visualiser la couleur correspondant à un code couleur
 
@@ -190,7 +149,7 @@ Lien : [https://packagecontrol.io/packages/Color%20Highlighter](https://packagec
 ![color](sublime-text/video/color-show.gif)
 
 
-#### ColorPicker
+## ColorPicker
 
 Ce module permet d'utiliser un color picker pour vos fichier CSS
 
@@ -200,7 +159,7 @@ Utilisation : <kbd>ctrl</kbd> + <kbd>Shift</kbd> + c
 
 
 
-#### Case Conversion
+## Case Conversion
 
 Ce module permet de modifier le formatage d'un texte
 
@@ -256,7 +215,7 @@ Certains raccourcis vont par 2 !
 
 
 
-#### Bracket​Highlighter
+## Bracket​Highlighter
 
 Ce module permet de vous indiquer où se situe le tag de fermeture, la fin d'une fonction, etc...
 
@@ -264,7 +223,7 @@ Lien : [https://packagecontrol.io/packages/BracketHighlighter](https://packageco
 
 
 
-#### GotoDocumentation
+## GotoDocumentation
 
 Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
 
@@ -274,7 +233,7 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>h</kbd>
 
 
 
-#### Bootstrap 4 Autocomplete
+## Bootstrap 4 Autocomplete
 
 Ce module permet d'automatiquement completer vos attributs class avec les class existantes de Bootstrap 4
 
@@ -284,7 +243,7 @@ Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete](https:/
 
 
 
-#### Bootstrap 4 Snippets
+## Bootstrap 4 Snippets
 
 Ce module permet d'obtenir de nombreux snippets Bootstrap 4
 
@@ -318,12 +277,3 @@ En tapant le code ```jumbotron``` puis sur <kbd>tab</kbd>, vous obtenez le code 
       </p>
     </div>
 ````
-
-
-## Liens utiles
-
-- [Documentation](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
-
-- [https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2](https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2)
-
-- [Documentation Linter](http://borntocode.fr/sublime-text-2-configurer-sublimelinter-pour-afficher-ses-erreurs/)

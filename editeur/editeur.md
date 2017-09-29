@@ -1,12 +1,13 @@
-# Choisir et paramétrer son éditeur de text
+# Choisir et paramétrer son éditeur de code
 
 ## Choisir
 
-Il y de nombreux éditeurs de texte comme :
+Il y de nombreux éditeurs de code comme :
 
 - [Sublime Text](https://www.sublimetext.com) (gratuit)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) (payant)
 - [Atom](https://atom.io/) (gratuit)
+- [Visual Studio Code](https://code.visualstudio.com/) (gratuit)
 - [NetBeans](https://netbeans.org/downloads/) (gratuit)
 
 

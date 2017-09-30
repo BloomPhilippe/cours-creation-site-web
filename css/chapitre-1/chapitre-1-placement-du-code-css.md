@@ -2,7 +2,7 @@
 
 Pour placer son code CSS, il y 3 possibilités
 
-## Dans les balises HTML à l'aide de l'attribut style
+## Dans les balises HTML
 
 Exemple : 
 

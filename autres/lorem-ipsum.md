@@ -1,4 +1,4 @@
-# Lorem ipsum
+# Lorem Ipsum
 
 C'est simplement du fuax texte qui vous permet de meubler vos mises en page.
 

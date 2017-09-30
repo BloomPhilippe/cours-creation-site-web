@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Le code CSS dans la balise head</title>
+    <style>
+        body{
+            background-color: #151515;
+            margin: 0;
+        }
+        header{
+            min-height:200px;
+            padding: 150px;
+            text-align: center;
+            background-color: #000000;
+            background-image: url(img/starwars-1.jpg);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+        }
+        nav{
+            background-color: #222;
+        }
+        nav ul{
+            width: 1200px;
+            margin: 0 auto;
+            padding-left:0;
+            list-style: none;
+            border-left: 1px solid #333;
+            min-height: 60px;
+        }
+        nav ul li{
+            display:inline-block;
+            position: relative;
+            text-transform: uppercase;
+            border-left: 1px solid #333;
+            height: 60px;color: #aaa;
+        }
+        nav ul li:last-child{
+            border-right: 1px solid #333
+        }
+        nav ul li span{
+            display: block;
+            padding: 20px;
+        }
+        main{
+            width: 1200px;
+            margin: auto;
+        }
+        main h1{
+            text-transform:uppercase;
+            color: #ddd;
+            border-top: 2px solid rgba(170,170,170,0.25);
+            border-bottom: 2px solid rgba(170,170,170,0.25);
+            margin: 40px 0;
+            padding: 0.65rem 12px 0.4rem;
+            font-weight: 800;
+        }
+        main article{
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        main article img{
+            display: block;
+            width: 100%;
+            margin: 0 auto;
+        }
+        main article div{
+            color:#ddd;
+            background-color: #282727;
+            border-top:3px solid #3273c5;
+            padding: 15px 25px;
+        }
+        footer{
+            position:relative;
+            color:#858a8d;
+            text-align:center;
+            min-height: 272px;
+            background-color: #1a1a1a;
+            background-image: url(img/bg-footer.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        footer p{
+            height:20px;
+            position: absolute;
+            top:0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <img src="img/logo-star-wars.png" alt="Lorem ipsum dolor." />
+</header>
+<nav>
+    <ul>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+        <li>
+            <span>Lien</span>
+        </li>
+    </ul>
+</nav>
+<main>
+    <h1>The latest news //</h1>
+    <article>
+        <img src="img/starwars-2.jpg" alt="Lorem ipsum dolor." />
+        <div>
+            <h2>Lorem ipsum dolor.</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, numquam, dolore, accusamus reiciendis quis sunt blanditiis at aspernatur odio laborum magni consequuntur delectus neque ea nobis totam minus vero tenetur!</p>
+            <p>Odio, at aut vel iure molestiae quis mollitia quod veritatis non nulla? Id, aliquid, illum corporis nulla consequuntur rerum sapiente commodi in excepturi iusto officiis perferendis tenetur fugiat. Rem, modi?</p>
+        </div>
+    </article>
+    <article>
+        <img src="img/starwars-3.jpg" alt="Lorem ipsum dolor." />
+        <div>
+            <h2>Lorem ipsum dolor.</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, numquam, dolore, accusamus reiciendis quis sunt blanditiis at aspernatur odio laborum magni consequuntur delectus neque ea nobis totam minus vero tenetur!</p>
+            <p>Odio, at aut vel iure molestiae quis mollitia quod veritatis non nulla? Id, aliquid, illum corporis nulla consequuntur rerum sapiente commodi in excepturi iusto officiis perferendis tenetur fugiat. Rem, modi?</p>
+        </div>
+    </article>
+    <article>
+        <img src="img/starwars-4.jpg" alt="Lorem ipsum dolor." />
+        <div>
+            <h2>Lorem ipsum dolor.</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, numquam, dolore, accusamus reiciendis quis sunt blanditiis at aspernatur odio laborum magni consequuntur delectus neque ea nobis totam minus vero tenetur!</p>
+            <p>Odio, at aut vel iure molestiae quis mollitia quod veritatis non nulla? Id, aliquid, illum corporis nulla consequuntur rerum sapiente commodi in excepturi iusto officiis perferendis tenetur fugiat. Rem, modi?</p>
+        </div>
+    </article>
+</main>
+<footer>
+    <p> ©  Test. All Rights Reserved</p>
+</footer>
+</body>
+</html>

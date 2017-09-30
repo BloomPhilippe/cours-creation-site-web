@@ -15,3 +15,7 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 
 ![CSS 2](img/can-i-use.png)
 
+
+## Table des matières
+
+- [Chapitre 1 - Placement du code CSS]()

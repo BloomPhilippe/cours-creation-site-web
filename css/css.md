@@ -3,7 +3,7 @@
 Le language CSS permet de gérer le visuel des contenus situés dans le document HTML.
 Grâce à lui, nous pouvons modifier la taille de la police, la couleur, ajouter une couleur de fond, etc...
 
-Il y a eu plusieurs version du CSS et actuellement, nous sommes à la version 3. 
+Il y a eu plusieurs versions du CSS et actuellement, nous sommes à la version 3. 
 
 ![CSS 1](img/historique.png)
 

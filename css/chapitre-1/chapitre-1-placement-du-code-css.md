@@ -4,6 +4,9 @@ Pour placer son code CSS, il y 3 possibilités
 
 ## Dans les balises HTML
 
+Cette methode est à éviter dans la plupart des cas. 
+Elle risque de rendre votre code illisible.
+
 Exemple : 
 
 [fichier HTML](avec-html.html)

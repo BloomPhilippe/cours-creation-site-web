@@ -1,0 +1,37 @@
+{
+  "name": "gulpfileBootstrapProject",
+  "version": "1.0.0",
+  "description": "gulpfile pour un projet avec bootstrap 4",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*"
+  },
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "gulp-order": "^1.1.1",
+    "jquery": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BloomPhilippe/gulpfile.git"
+  },
+  "keywords": [
+    "SASS"
+  ],
+  "author": "BloomPhilippe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BloomPhilippe/gulpfile/issues"
+  },
+  "homepage": "https://github.com/BloomPhilippe/gulpfile#readme"
+}

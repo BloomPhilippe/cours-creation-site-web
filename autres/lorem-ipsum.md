@@ -17,3 +17,5 @@ Site Web : [Lien](http://fr.lipsum.com/)
 Extension Google Chrome : [Lien](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
 
 ![extension](lorem-ipsum/video/extension-chrome.gif)
+
+Extension Mozilla Firefox : [Lien](https://addons.mozilla.org/fr/firefox/addon/simple-lorem-ipsum/)

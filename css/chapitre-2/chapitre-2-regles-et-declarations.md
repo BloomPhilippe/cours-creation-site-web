@@ -31,7 +31,7 @@ Dans mon fichier CSS, je modifie l'aspect visuel de celle qui se trouve dans sec
 Je sélectionne d'abord l'élément HTML à modifier avec un sélecteur adéquat;
 
 ````css
-section h1
+section p
 ````
 
 Je commence ma déclaration à l'aide d'une accolade ouvrante
@@ -63,7 +63,7 @@ Et pour finir, je ferme ma déclaration à l'aide d'une accolade fermante
 L'ensemble donne le code qui se situe dans le fichier [main.css](css/main.css)
 
 ````css
-section h1{
+section p{
     background-color: #014c8c;
 }
 ````

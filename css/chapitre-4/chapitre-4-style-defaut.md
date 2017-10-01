@@ -12,20 +12,36 @@ Nous observons que le document ouvert dans firefox ne termine pas au même nivea
 
 ## Liste des différents navigateurs et de leur style par défaut
 
+
 - Firefox
+
+Moteur : Gecko
 
 Documentation officielle : [Style par defaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
 
 Ou ouvrez Firefox et taper l'url suivante : [resource://gre-resources/html.css](resource://gre-resources/html.css)
 
+
 - Chrome
+
+Moteur : Blink
 
 Documentation officielle : [Style par defaut](https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/css/html.css?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=15)
 
-- Moteur Webkit
+
+- Chrome &amp; Safari &amp; Opera &amp; Android
+
+Moteur : WebKit
 
 Documentation officielle : [Style par defaut](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+
 
 - Internet Explorer
 
 Documentation officielle : [Style par default](http://web.archive.org/web/20170122223926/http://www.iecss.com/)
+
+
+
+---
+
+Source : [Lien](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)

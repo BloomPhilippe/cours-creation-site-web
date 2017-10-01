@@ -9,6 +9,8 @@ Package : [Lien](https://packagecontrol.io/packages/Emmet)
 
 Documentation : [Lien](https://docs.emmet.io/cheat-sheet/)
 
+Documentation (PDF) : [Lien](pdf/cheatsheet-emmet.pdf)
+
 **Exemple d'abréviation :**
 
 En tapant le code ```ul>li*4>a``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-dessous

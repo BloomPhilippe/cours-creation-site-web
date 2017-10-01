@@ -4,8 +4,7 @@ Pour placer son code CSS, il y 3 possibilités
 
 ## Dans les balises HTML
 
-Cette methode est à éviter dans la plupart des cas. 
-Elle risque de rendre votre code illisible et d'alourdir votre page HTML.
+Cette methode est à éviter dans la plupart des cas car elle risque de rendre votre code illisible et d'alourdir votre page HTML.
 
 De plus, vous serez limité au état de base, vous ne pourrez pas interagir avec certains selecteurs tels que le hover, active, last-child, etc...
 

@@ -2,7 +2,7 @@
 
 Lorsque vous allez coder HTML &amp; CSS, vous devez tester le résultat sur tous les navigateurs (Chrome, Firefox, Safari, etc...).
 
-Cependant, de base les navigateurs ont leur propre style CSS embarqué (style par defaut).
+Cependant, de base les navigateurs ont leur propre style CSS embarqué (style par défaut).
 
 Comparons notre fichier [chapitre-4](chapitre-4.html) sur Chrome et Firefox :
 
@@ -17,7 +17,7 @@ Nous observons que le document ouvert dans firefox ne termine pas au même nivea
 
 Moteur : Gecko
 
-Documentation officielle : [Style par defaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
+Documentation officielle : [Style par défaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
 
 Ou ouvrez Firefox et taper l'url suivante : [resource://gre-resources/html.css](resource://gre-resources/html.css)
 
@@ -26,22 +26,27 @@ Ou ouvrez Firefox et taper l'url suivante : [resource://gre-resources/html.css](
 
 Moteur : Blink
 
-Documentation officielle : [Style par defaut](https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/css/html.css?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=15)
+Documentation officielle : [Style par défaut](https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/css/html.css?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=15)
 
 
 - Chrome &amp; Safari &amp; Opera &amp; Android
 
 Moteur : WebKit
 
-Documentation officielle : [Style par defaut](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+Documentation officielle : [Style par défaut](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 
 
 - Internet Explorer
 
-Documentation officielle : [Style par default](http://web.archive.org/web/20170122223926/http://www.iecss.com/)
+Documentation officielle : [Style par défaut](http://web.archive.org/web/20170122223926/http://www.iecss.com/)
 
 
 
 ---
 
 Source : [Lien](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)
+
+
+## Solution
+
+Plusieurs developpeur ont créé leur reset.css qui permets d'annuler le style par défaut

@@ -19,3 +19,4 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 ## Table des matières
 
 - [Chapitre 1 - Placement du code CSS](chapitre-1/chapitre-1-placement-du-code-css.md)
+- [Chapitre 2 - Règles et déclarations](chapitre-1/chapitre-2-regles-et-declarations.md)

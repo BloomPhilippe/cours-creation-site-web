@@ -26,6 +26,8 @@ Une qui se trouve dans section et l'autre en dehors.
 
 Dans mon fichier CSS, je modifie l'aspect visuel de celle qui se trouve dans section.
 
+**Etapes :**
+
 Je sélectionne d'abord l'élément HTML à modifier avec un sélecteur adéquat;
 
 ````css

@@ -46,6 +46,7 @@ Documentation officielle : [Style par défaut](http://web.archive.org/web/201701
 
 Source : [Lien](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)
 
+---
 
 ## Solution & uniformiser
 

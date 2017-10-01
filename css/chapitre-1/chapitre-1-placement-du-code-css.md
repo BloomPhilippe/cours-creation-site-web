@@ -15,6 +15,9 @@ Exemple :
 
 ## Dans la balise head
 
+Cette méthode n'est pas 
+
+
 Exemple : 
 
 [fichier HTML](dans-balise-head.html)

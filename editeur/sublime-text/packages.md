@@ -5,7 +5,9 @@
 
 Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviation de code, de raccourcis et bien plus encore.
 
-Lien : [https://packagecontrol.io/packages/Emmet](https://packagecontrol.io/packages/Emmet)
+Package : [Lien](https://packagecontrol.io/packages/Emmet)
+
+Documentation : [Lien](https://docs.emmet.io/cheat-sheet/)
 
 **Exemple d'abréviation :**
 

@@ -71,3 +71,4 @@ section p{
 **Résultat :**
 
 
+![resultat](vidéo/chapitre-2-1.gif)

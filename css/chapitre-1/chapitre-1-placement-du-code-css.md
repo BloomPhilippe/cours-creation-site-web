@@ -4,7 +4,7 @@ Pour placer son code CSS, il y 3 possibilités
 
 ## Dans les balises HTML
 
-Cette méthode nommé "Inline Style" est à éviter dans la plupart des cas car elle risque de rendre votre code illisible et d'alourdir votre page HTML.
+Cette méthode nommé **Inline Style** est à éviter dans la plupart des cas car elle risque de rendre votre code illisible et d'alourdir votre page HTML.
 
 De plus, vous serez limité au état de base, vous ne pourrez pas interagir avec certains selecteurs tels que le hover, active, last-child, etc...
 
@@ -14,7 +14,7 @@ Exemple :
 
 ## Dans la balise head
 
-Cette méthode nommé "Internal Style Sheet" n'est pas non plus très recommendée car dans un gros projet, vous pouvez atteindre les centaines de lignes de code CSS donc en y ajoutant votre code HTML, vous allez devoir beaucoup scroller et perdre beaucoup de temps à vous y retouver. 
+Cette méthode nommé **Internal Style Sheet** n'est pas non plus très recommendée car dans un gros projet, vous pouvez atteindre les centaines de lignes de code CSS donc en y ajoutant votre code HTML, vous allez devoir beaucoup scroller et perdre beaucoup de temps à vous y retouver. 
 
 De plus, ce n'est pas modulable, imaginons que vous avez créer un projet avec plusieurs pages dont certaines parties du code CSS sont communes, cela vaut dire que vous allez devoir dupliquer votre code, ce qui est une perte de temps et ce qui peut être une source d'erreur... 
 
@@ -26,7 +26,7 @@ Exemple :
 
 ## Dans un fichier CSS appart
 
-Cette méthode nommée "External Style Sheet" est celle que je recommande.
+Cette méthode nommée **External Style Sheet** est celle que je recommande.
 
 Exemple : 
 

@@ -13,7 +13,7 @@ Ci-dessous, le shémas représentant ces 4 élément :
 
 ## Exemple
 
-Dans notre fichier HTML chapitre-2, nous constatons qu'il y a deux balise p
+Dans notre fichier HTML [chapitre-2](chapitre-2.html), nous constatons qu'il y a deux balise p
 
 ````html
    <section>

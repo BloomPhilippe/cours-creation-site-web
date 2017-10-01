@@ -13,32 +13,32 @@ Nous observons que le document ouvert dans firefox ne termine pas au même nivea
 ## Liste des différents navigateurs et de leur style par défaut
 
 
-4. Firefox
+- Firefox
 
-⋅⋅* Moteur : Gecko
+    Moteur : Gecko
 
-Documentation officielle : [Style par défaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
+    Documentation officielle : [Style par défaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
 
-Ou ouvrez Firefox et taper l'url suivante : [resource://gre-resources/html.css](resource://gre-resources/html.css)
+    Ou ouvrez Firefox et taper l'url suivante : [resource://gre-resources/html.css](resource://gre-resources/html.css)
 
 
 - Chrome
 
-Moteur : Blink
+    Moteur : Blink
 
-Documentation officielle : [Style par défaut](https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/css/html.css?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=15)
+    Documentation officielle : [Style par défaut](https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/css/html.css?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=15)
 
 
 - Chrome &amp; Safari &amp; Opera &amp; Android
 
-Moteur : WebKit
+    Moteur : WebKit
 
-Documentation officielle : [Style par défaut](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+    Documentation officielle : [Style par défaut](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 
 
 - Internet Explorer
 
-Documentation officielle : [Style par défaut](http://web.archive.org/web/20170122223926/http://www.iecss.com/)
+    Documentation officielle : [Style par défaut](http://web.archive.org/web/20170122223926/http://www.iecss.com/)
 
 
 

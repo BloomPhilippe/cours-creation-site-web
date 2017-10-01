@@ -15,7 +15,7 @@ Nous observons que le document ouvert dans firefox ne termine pas au même nivea
 
 4. Firefox
 
-⋅⋅⋅Moteur : Gecko
+⋅⋅* Moteur : Gecko
 
 Documentation officielle : [Style par défaut](https://hg.mozilla.org/mozilla-central/file/tip/layout/style/res/html.css)
 

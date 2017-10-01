@@ -1,6 +1,6 @@
 # Règles et déclarations
 
-En CSS, il y a 4 éléments :
+En CSS, il y a 4 principaux éléments :
 
 - Un sélecteur
 - Une déclaration
@@ -72,3 +72,22 @@ section p{
 
 
 ![resultat](vidéo/chapitre-2-1.gif)
+
+
+## Autre
+
+Il est possible d'ajouter des commentaires à notre code CSS. 
+
+Pour commencer un commentaire, il faut utiliser un slash puis une étoile comme ci-dessous
+
+````css
+/*
+````
+
+Pour finir un commentaire, il faut utiliser une étoile puis un slash comme ci-dessous
+
+````css
+*/
+````
+
+**_Tout ce qui se trouve dans un commentaire est ignoré par les navigateurs_**

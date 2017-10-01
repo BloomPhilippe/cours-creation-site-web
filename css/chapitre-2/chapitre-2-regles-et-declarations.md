@@ -91,3 +91,7 @@ Pour finir un commentaire, il faut utiliser une étoile puis un slash comme ci-d
 ````
 
 **_Tout ce qui se trouve dans un commentaire est ignoré par les navigateurs_**
+
+Ci-dessous, le shémas représentant ces 4 élément + commentaire :
+
+![CSS 2](../img/regles-declarations-2.png)

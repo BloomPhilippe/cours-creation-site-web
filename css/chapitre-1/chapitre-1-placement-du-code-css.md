@@ -2,6 +2,8 @@
 
 Pour placer son code CSS, il y 3 possibilités
 
+![placements](img/3-placements-css.png)
+
 ## Dans les balises HTML
 
 Cette méthode nommé **Inline Style** est à éviter dans la plupart des cas car elle risque de rendre votre code illisible et d'alourdir votre page HTML.

@@ -47,6 +47,11 @@ Documentation officielle : [Style par défaut](http://web.archive.org/web/201701
 Source : [Lien](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)
 
 
-## Solution
+## Solution & uniformiser
 
-Plusieurs developpeur ont créé leur reset.css qui permets d'annuler le style par défaut
+Plusieurs developpeurs ont créé leur propre fichier CSS qui permet d'annuler le style par défaut de tous les navigateurs.
+
+Voici les plus connus :
+
+- [Eric Meyer (initiateur du reset CSS)](https://meyerweb.com/eric/tools/css/reset/)
+- [cssreset](http://cssreset.com/)

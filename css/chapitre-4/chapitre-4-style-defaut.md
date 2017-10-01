@@ -13,7 +13,7 @@ Nous observons que le document ouvert dans firefox ne termine pas au même nivea
 ## Liste des différents navigateurs et de leur style par défaut
 
 
-- Firefox
+4. Firefox
 
 ⋅⋅⋅Moteur : Gecko
 

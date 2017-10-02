@@ -1,6 +1,6 @@
 # Lorem Ipsum
 
-C'est simplement du fuax texte qui vous permet de meubler vos mises en page.
+C'est simplement du faux texte qui vous permet de meubler vos mises en page.
 
 Si vous devez effectuer un découpe d'une page web mais que vous ne possédez pas de texte, il est très difficile d'obtenir un résultat cohérent.
 

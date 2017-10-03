@@ -4,7 +4,7 @@ Lorsque vous allez coder en HTML &amp; CSS, vous devez tester le résultat sur t
 
 Cependant, de base les navigateurs ont leur propre style CSS embarqué (style par défaut).
 
-Comparons notre fichier [chapitre-4](chapitre-4.html) sur Chrome et Firefox :
+Comparons notre fichier [chapitre-3](chapitre-3.html) sur Chrome et Firefox :
 
 ![chrome-firefox](img/chrome-firefox.png)
 
@@ -57,7 +57,7 @@ Voici les plus connus :
 - [Eric Meyer (initiateur du reset CSS)](https://meyerweb.com/eric/tools/css/reset/)
 - [CSSReset](http://cssreset.com/)
 
-Télécharger et placer un des reset.css dans votre projet, il faut le déclarer avant vos CSS comme sur l'exemple [ici](chapitre-4-avec-reset.html)
+Télécharger et placer un des reset.css dans votre projet, il faut le déclarer avant vos CSS comme sur l'exemple [ici](chapitre-3-avec-reset.html)
 
 Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
 

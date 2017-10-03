@@ -55,4 +55,10 @@ Plusieurs developpeurs ont créé leur propre fichier CSS qui permet d'annuler l
 Voici les plus connus :
 
 - [Eric Meyer (initiateur du reset CSS)](https://meyerweb.com/eric/tools/css/reset/)
-- [cssreset](http://cssreset.com/)
+- [CSSReset](http://cssreset.com/)
+
+Télécharger et placer un des reset.css dans votre projet, il faut le déclarer avant vos CSS comme sur l'exemple [ici](chapitre-4-avec-reset.html)
+
+Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
+
+![chrome-firefox](img/chrome-firefox-avec-reset.png)

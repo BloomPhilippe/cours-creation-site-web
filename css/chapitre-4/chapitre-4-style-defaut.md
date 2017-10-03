@@ -8,7 +8,7 @@ Comparons notre fichier [chapitre-4](chapitre-4.html) sur Chrome et Firefox :
 
 ![chrome-firefox](img/chrome-firefox.png)
 
-Nous observons que le document ouvert dans firefox ne termine pas au même niveau que dans Chrome et qu'il y a des différences d'espaces alors que nous n'avons pas ajouté du code CSS...
+Nous observons que le document ouvert dans Firefox ne termine pas au même niveau que dans Chrome et qu'il y a des différences d'espaces alors que nous n'avons pas ajouté du code CSS...
 
 ## Liste des différents navigateurs et de leur style par défaut
 
@@ -62,3 +62,5 @@ Télécharger et placer un des reset.css dans votre projet, il faut le déclarer
 Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
 
 ![chrome-firefox](img/chrome-firefox-avec-reset.png)
+
+Nous observons que le document ouvert dans Firefox et Chrome sont identique !

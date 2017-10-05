@@ -7,7 +7,7 @@ Il y a eu plusieurs versions du CSS et actuellement, nous sommes à la version 3
 
 ![CSS 1](img/historique.png)
 
-Cependant, certaines propriétés ou valeurs ne sont pas compatible avec toutes les versions des navigateurs. 
+Dans la nouvelle version, certaines propriétés ou valeurs ne sont pas compatible avec toutes les versions des navigateurs. 
 
 Si vous désirez savoir quel propriété ou valeur est compatible ou non, vous pouvez allez sur le site [Can I use ?](http://www.caniuse.com/), vous y trouverez toutes les compatibilités avec les différentes versions de Chrome, Firefox, Safari, Edge, etc...
 
@@ -20,5 +20,5 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 
 - [Chapitre 1 - Placement du code CSS](chapitre-1/chapitre-1-placement-du-code-css.md)
 - [Chapitre 2 - Règles et déclarations](chapitre-2/chapitre-2-regles-et-declarations.md)
-- [Chapitre 3 - Les sélecteurs](chapitre-3/chapitre-3-selecteurs.md)
-- [Chapitre 4 - Style par défaut](chapitre-4/chapitre-4-style-defaut.md)
+- [Chapitre 3 - Style par défaut](chapitre-3/chapitre-3-style-defaut.md)
+- [Chapitre 4 - Les sélecteurs](chapitre-4/chapitre-4-selecteurs.md)

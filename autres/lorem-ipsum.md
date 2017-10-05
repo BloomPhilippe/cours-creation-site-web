@@ -1,6 +1,6 @@
 # Lorem Ipsum
 
-C'est simplement du fuax texte qui vous permet de meubler vos mises en page.
+C'est simplement du faux texte qui vous permet de meubler vos mises en page.
 
 Si vous devez effectuer un découpe d'une page web mais que vous ne possédez pas de texte, il est très difficile d'obtenir un résultat cohérent.
 
@@ -14,8 +14,9 @@ Le tout dans n'import quelle langue...
 
 Site Web : [Lien](http://fr.lipsum.com/)
 
+Extension Mozilla Firefox : [Lien](https://addons.mozilla.org/fr/firefox/addon/simple-lorem-ipsum/)
+
 Extension Google Chrome : [Lien](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
 
 ![extension](lorem-ipsum/video/extension-chrome.gif)
 
-Extension Mozilla Firefox : [Lien](https://addons.mozilla.org/fr/firefox/addon/simple-lorem-ipsum/)

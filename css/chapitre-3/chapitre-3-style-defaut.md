@@ -1,14 +1,14 @@
 # Style par défaut
 
-Lorsque vous allez coder HTML &amp; CSS, vous devez tester le résultat sur tous les navigateurs (Chrome, Firefox, Safari, etc...).
+Lorsque vous allez coder en HTML &amp; CSS, vous devez tester le résultat sur tous les navigateurs (Chrome, Firefox, Safari, etc...).
 
 Cependant, de base les navigateurs ont leur propre style CSS embarqué (style par défaut).
 
-Comparons notre fichier [chapitre-4](chapitre-4.html) sur Chrome et Firefox :
+Comparons notre fichier [chapitre-3](chapitre-3.html) sur Chrome et Firefox :
 
 ![chrome-firefox](img/chrome-firefox.png)
 
-Nous observons que le document ouvert dans firefox ne termine pas au même niveau que dans Chrome et qu'il y a des différences d'espaces alors que nous n'avons pas ajouté du code CSS...
+Nous observons que le document ouvert dans Firefox ne termine pas au même niveau que dans Chrome et qu'il y a des différences d'espaces alors que nous n'avons pas ajouté du code CSS...
 
 ## Liste des différents navigateurs et de leur style par défaut
 
@@ -55,4 +55,12 @@ Plusieurs developpeurs ont créé leur propre fichier CSS qui permet d'annuler l
 Voici les plus connus :
 
 - [Eric Meyer (initiateur du reset CSS)](https://meyerweb.com/eric/tools/css/reset/)
-- [cssreset](http://cssreset.com/)
+- [CSSReset](http://cssreset.com/)
+
+Télécharger et placer un des reset.css dans votre projet, il faut le déclarer avant vos CSS comme sur l'exemple [ici](chapitre-3-avec-reset.html)
+
+Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
+
+![chrome-firefox](img/chrome-firefox-avec-reset.png)
+
+Nous observons que le document ouvert dans Firefox et Chrome sont identique !

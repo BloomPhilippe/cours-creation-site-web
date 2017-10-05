@@ -49,3 +49,10 @@ Ci-dessous, vous trouverez le liens vers les packages de base à utiliser
 - [https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2](https://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2)
 
 - [Documentation Linter](http://borntocode.fr/sublime-text-2-configurer-sublimelinter-pour-afficher-ses-erreurs/)
+
+
+
+
+---
+
+[:back:](../editeur.md)

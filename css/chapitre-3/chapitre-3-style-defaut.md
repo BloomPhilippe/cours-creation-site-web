@@ -64,3 +64,9 @@ Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chro
 ![chrome-firefox](img/chrome-firefox-avec-reset.png)
 
 Nous observons que le document ouvert dans Firefox et Chrome sont identique !
+
+
+
+---
+
+[:back:](../chapitre-2/chapitre-2-regles-et-declarations.md) | [:soon:](../chapitre-4/chapitre-4-selecteurs.md)

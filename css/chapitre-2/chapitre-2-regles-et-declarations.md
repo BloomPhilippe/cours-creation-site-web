@@ -95,3 +95,9 @@ Pour finir un commentaire, il faut utiliser une étoile puis un slash comme ci-d
 Ci-dessous, le shémas représentant ces 4 élément + commentaire :
 
 ![CSS 2](../img/regles-declarations-2.png)
+
+
+
+---
+
+[:back:](../chapitre-1/chapitre-1-placement-du-code-css.md) | [:soon:](../chapitre-3/chapitre-3-style-defaut.md)

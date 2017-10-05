@@ -7,5 +7,6 @@
 - [Lorem Ipsum](autres/lorem-ipsum.md)
 - [CSS](css/css.md)
 - [Concaténer, minifier, compilier, etc...](compilateur/compilateur.md)
+- [Outils intéressants](autres/outils.md)
 
  

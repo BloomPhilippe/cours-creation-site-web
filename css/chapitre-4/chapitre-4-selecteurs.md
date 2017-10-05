@@ -8,7 +8,7 @@ Schémas d'exemple :
 
 ![DOM](img/DOM-1.png)
 
-En résumé, les balises HTML sont des objets auxquels on peut ajouter des propriétés. Cela permet en autre des les manipuler via d'autres languages tel que Javascript...
+En résumé, les balises HTML sont des objets auxquels on peut ajouter des propriétés. Cela permet en autre de les manipuler via d'autres languages tel que Javascript ou CSS...
 
 
 

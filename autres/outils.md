@@ -20,4 +20,4 @@
 
 ---
 
-[:arrow_left:](README.md)
+[:back:](README.md)

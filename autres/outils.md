@@ -9,9 +9,9 @@
 
 - [ScreenToGif](http://www.screentogif.com/)
 
-    Permet d'effectuer des vidéos, des GIF à partir de votre écran d'ordinateur
+    - Permet d'effectuer des vidéos, des GIF à partir de votre écran d'ordinateur
 
 
 - [Wappalyzer](https://wappalyzer.com/download)
 
-    C'est un extension pour les navigateurs qui vous permet savoir de quel technologie le site que vous visité utilise.
+    - C'est un extension pour les navigateurs qui vous permet savoir de quel technologie le site que vous visité utilise.

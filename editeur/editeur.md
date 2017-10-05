@@ -58,4 +58,4 @@ Site Web : [Lien](https://netbeans.org/downloads/)
 
 ---
 
-[:back:](../README.md)
+[:back:](../README.md) | [:soon:](../autres/lorem-ipsum.md)

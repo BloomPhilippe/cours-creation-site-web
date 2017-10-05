@@ -20,3 +20,9 @@ Extension Google Chrome : [Lien](https://chrome.google.com/webstore/detail/lorem
 
 ![extension](lorem-ipsum/video/extension-chrome.gif)
 
+
+
+---
+
+[:back:](../editeur/editeur.md) | [:soon:](../css/css.md)
+

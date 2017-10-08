@@ -59,11 +59,11 @@ Voici les plus connus :
 
 Télécharger et placer un des reset.css dans votre projet, il faut le déclarer avant vos CSS comme sur l'exemple [ici](chapitre-3-avec-reset.html)
 
-Comparons à maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
+Comparons maintenant notre fichier mais cette fois avec le reset.css sur Chrome et Firefox :
 
 ![chrome-firefox](img/chrome-firefox-avec-reset.png)
 
-Nous observons que le document ouvert dans Firefox et Chrome sont identique !
+Nous observons que le document ouvert dans Firefox et Chrome sont identiques !
 
 
 

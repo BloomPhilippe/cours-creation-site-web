@@ -14,7 +14,7 @@ En résumé, les balises HTML sont des objets auxquels on peut ajouter des propr
 
 Il y a trois types de selecteurs :
 
-- [Les selecteurs de balise](Les selecteurs de balise)
+- [Les selecteurs de balise](#les-selecteurs-de-balise)
 - Les selecteurs de classes
 - Les selecteurs d'identifiant
 

@@ -2,7 +2,7 @@
 
 ## 1. Installation
 
-- Si NodeJS n'est pas installer, installez-le en allant sur ce [lien](https://nodejs.org).
+- Si NodeJS n'est pas installé, installez-le en allant sur ce [lien](https://nodejs.org).
 
 - Ouvrez le terminal et testez la commande ci-dessous pour vérifier si node est installé
 
@@ -55,9 +55,9 @@ Ajouter le package.json avec la commande ci-dessous et répondre aux questions
 npm init
 ```
 
-## 4. Installer vos packages de developpement
+## 4. Installer vos packages de développement
 
-Les modules ci-dessous, vous permettrons de créer des tâches gulp (sass, css, js, etc...)
+Les modules ci-dessous vous permettront de créer des tâches gulp (sass, css, js, etc...)
 
 ```
 npm install gulp --save-dev
@@ -84,14 +84,14 @@ npm install gulp-rename --save-dev
 npm install gulp-uglify --save-dev
 ```
   
-## 5. Construiser votre fichier gulpfile.js avec vos tâches
+## 5. Construir votre fichier gulpfile.js avec vos tâches
 
  
 Allez voir la documentation ci-dessous :
 
 [Gulp git](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
-Ou analyser le fichier gulfile.js dans un des trois répertoire.
+Ou analysez le fichier gulfile.js dans un des trois répertoires.
 
 ## 5. Activer les commandes Gulp
 
@@ -104,8 +104,8 @@ npm install --global gulp
 
 ## 7. Autres commandes
 
-Pour installer tout les packages qui sont écrit dans package.json
-Si vous installez sur une autre machine ou que vous deployer votre projet, il ne faut pas garder le dossier node_modules, ni le copier/coller...
+Pour installer tous les packages qui sont écrits dans package.json
+Si vous installez sur une autre machine ou que vous déployez votre projet, il ne faut pas garder le dossier node_modules, ni le copier/coller...
 Pour installer tous les modules (dans package.json) en une commande, il suffit d'effectuer la commande ci-dessous :
 
 ```

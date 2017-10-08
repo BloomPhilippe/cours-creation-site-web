@@ -2,15 +2,15 @@
 
 C'est simplement du faux texte qui vous permet de meubler vos mises en page.
 
-Si vous devez effectuer un découpe d'une page web mais que vous ne possédez pas de texte, il est très difficile d'obtenir un résultat cohérent.
+Si vous devez effectuer une découpe d'une page web mais que vous ne possédez pas de texte, il est très difficile d'obtenir un résultat cohérent.
 
-Sur le site officiel, vous pouvez générez un texte avec :
+Sur le site officiel, vous pouvez générer un texte avec :
  
 - Soit plusieurs paragraphes aléatoires;
-- Soit un paragraphe avec un nombre de mots bien défini;
+- Soit un paragraphe avec un nombre de mots bien définis;
 - Soit une liste
 
-Le tout dans n'import quelle langue...
+Le tout dans n'importe quelle langue...
 
 Site Web : [Lien](http://fr.lipsum.com/)
 

@@ -14,7 +14,7 @@
 
 - [Wappalyzer](https://wappalyzer.com/download)
 
-    - C'est un extension pour les navigateurs qui vous permet savoir de quel technologie le site que vous visité utilise.
+    - C'est un extension pour les navigateurs qui vous permet savoir de quelle technologie le site que vous visitez utilise.
     
 
 

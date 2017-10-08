@@ -3,7 +3,7 @@
 
 ## Emmet
 
-Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviation de code, de raccourcis et bien plus encore.
+Ce package permet de coder beaucoup plus rapidement à l'aide de snippets, d'abréviations de code, de raccourcis et bien plus encore.
 
 Package : [Lien](https://packagecontrol.io/packages/Emmet)
 
@@ -65,7 +65,7 @@ En tapant le code ```html:5``` puis sur <kbd>tab</kbd>, vous obtenez le code ci-
 
 ## SublimeLinter
 
-Ce module permet les errors liée à votre code.
+Ce module permet de visualiser les erreurs liées à votre code.
 
 Lien : [Documentation](http://sublimelinter.readthedocs.io/en/latest/installation.html)
 Lien : [GitHub](https://github.com/SublimeLinter/SublimeLinter3)
@@ -100,7 +100,7 @@ Lien : [https://packagecontrol.io/packages/SideBarEnhancements](https://packagec
 
 ## Doc​Blockr
 
-Ce module permet de commenter vos fonction PHP, Javascript, etc...
+Ce module permet de commenter vos fonctions PHP, Javascript, etc...
 
 Lien : [https://packagecontrol.io/packages/DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 
@@ -135,7 +135,7 @@ Utilisation : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>a</kbd>
 
 ## GotoDocumentation
 
-Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
+Plus besoin de chercher comment écrire tel ou tel code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
 
 Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
 
@@ -155,7 +155,7 @@ Lien : [https://packagecontrol.io/packages/Color%20Highlighter](https://packagec
 
 ## ColorPicker
 
-Ce module permet d'utiliser un color picker pour vos fichier CSS
+Ce module permet d'utiliser un color picker pour vos fichiers CSS
 
 Lien : [https://packagecontrol.io/packages/ColorPicker](https://packagecontrol.io/packages/ColorPicker)
 
@@ -188,27 +188,27 @@ Certains raccourcis vont par 2 !
 <kbd>Ctrl</kbd> + <kbd>k</kbd>
 <kbd>Ctrl</kbd> + <kbd>u</kbd>
 
-- Séparer chaques textes par une majuscule (PascalCase)
+- Séparer chaque texte par une majuscule (PascalCase)
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd>
 
-- Chaques textes à une majuscule sauf le premier (camelCase)
+- Chaque texte à une majuscule sauf le premier (camelCase)
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 
-- Séparer chaques textes par un underscore (snake_case)
+- Séparer chaque texte par un underscore (snake_case)
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>s</kbd>
 
-- Séparer chaques textes par un tiret (dash-case)
+- Séparer chaque texte par un tiret (dash-case)
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>h</kbd>
 
-- Séparer chaques textes par un point (dot.case)
+- Séparer chaque texte par un point (dot.case)
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>c</kbd>
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>d</kbd>
@@ -229,7 +229,7 @@ Lien : [https://packagecontrol.io/packages/BracketHighlighter](https://packageco
 
 ## GotoDocumentation
 
-Plus besoin de chercher comment ecrire tels ou tels code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
+Plus besoin de chercher comment écrire tel ou tel code sur internet... Grâce à ce module, vous pouvez trouver votre documentation plus facilement.
 
 Lien : [https://packagecontrol.io/packages/GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation)
 
@@ -239,7 +239,7 @@ Utilisation : <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>h</kbd>
 
 ## Bootstrap 4 Autocomplete
 
-Ce module permet d'automatiquement completer vos attributs class avec les class existantes de Bootstrap 4
+Ce module permet d'automatiquement compléter vos attributs class avec les class existantes de Bootstrap 4
 
 Lien : [https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
 

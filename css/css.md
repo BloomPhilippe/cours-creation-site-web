@@ -7,9 +7,9 @@ Il y a eu plusieurs versions du CSS et actuellement, nous sommes à la version 3
 
 ![CSS 1](img/historique.png)
 
-Dans la nouvelle version, certaines propriétés ou valeurs ne sont pas compatible avec toutes les versions des navigateurs. 
+Dans la nouvelle version, certaines propriétés ou valeurs ne sont pas compatibles avec toutes les versions des navigateurs. 
 
-Si vous désirez savoir quel propriété ou valeur est compatible ou non, vous pouvez allez sur le site [Can I use ?](http://www.caniuse.com/), vous y trouverez toutes les compatibilités avec les différentes versions de Chrome, Firefox, Safari, Edge, etc...
+Si vous désirez savoir quelle propriété ou valeur est compatible ou non, vous pouvez aller sur le site [Can I use ?](http://www.caniuse.com/), vous y trouverez toutes les compatibilités avec les différentes versions de Chrome, Firefox, Safari, Edge, etc...
 
 Voici un exemple de tableau des compatibilités pour les Flexbox :
 

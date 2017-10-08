@@ -7,13 +7,13 @@ En CSS, il y a 4 principaux éléments :
 - Une propriété
 - Une valeur
 
-Ci-dessous, le shémas représentant ces 4 élément :
+Ci-dessous, le shéma représentant ces 4 éléments :
 
 ![CSS 2](../img/regles-declarations-1.png)
 
 ## Exemple
 
-Dans notre fichier HTML [chapitre-2](chapitre-2.html), nous constatons qu'il y a deux balise p
+Dans notre fichier HTML [chapitre-2](chapitre-2.html), nous constatons qu'il y a deux balises p
 
 ````html
    <section>
@@ -92,7 +92,7 @@ Pour finir un commentaire, il faut utiliser une étoile puis un slash comme ci-d
 
 **_Tout ce qui se trouve dans un commentaire est ignoré par les navigateurs_**
 
-Ci-dessous, le shémas représentant ces 4 élément + commentaire :
+Ci-dessous, le shémas représentant ces 4 éléments + commentaire :
 
 ![CSS 2](../img/regles-declarations-2.png)
 

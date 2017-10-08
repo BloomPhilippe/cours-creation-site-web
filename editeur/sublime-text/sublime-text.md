@@ -16,9 +16,9 @@ Voici les raccourcis Windows sur ce [lien](pdf/racourcis-windows.pdf)
 
 Voici les raccourcis MacOS sur ce [lien](pdf/racourcis-osx.pdf)
 
-Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous coder.
+Au début, essayez d'avoir votre feuille de racourcis près de vous lorsque vous codez.
 
-**Vous allez surement chercher après le racourcis qui va indenter votre code... De base, il n'en existe pas!** 
+**Vous allez sûrement chercher après le racourcis qui va indenter votre code... De base, il n'en existe pas!** 
 
 ![indent](video/indent-code.gif)
 
@@ -28,11 +28,11 @@ Les packages sont des modules qui permettent d'ajouter de nouvelles fonctionnali
 
 Afin d'installer les packages plus facilement, vous devez installer le "Package Control" en allant dans "Tools" puis cliquer sur Install Package Control...
 
-Pour vérifier si Package Control fonctionne, cliquer sur <kbd>Ctrl</kbd> + <kbd>p</kbd> et dans le champ texte, taper package.
+Pour vérifier si Package Control fonctionne, cliquez sur <kbd>Ctrl</kbd> + <kbd>p</kbd> et dans le champ texte, tapez package.
 
 ![cover](img/package-1.png)
 
-Pour installer un package, cliquer sur ctrl+p taper install et cliquer sur Install Package. Une deuxième popup va apparaître, dans celle-ci taper le nom du module souhaité et cliquer dessus.
+Pour installer un package, cliquez sur ctrl+p taper install et cliquez sur Install Package. Une deuxième popup va apparaître, dans celle-ci tapez le nom du module souhaité et cliquez dessus.
 
 ![cover](img/package-2.png)
 

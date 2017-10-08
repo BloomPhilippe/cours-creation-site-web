@@ -16,13 +16,19 @@ Il y a trois types de selecteurs :
 
 - [Les selecteurs de balise](#les-selecteurs-de-balise)
 - [Les selecteurs de classe](#les-selecteurs-de-classe)
-- [Les selecteurs d'identifiant](#les-selecteurs-de-balise)
+- [Les selecteurs d'identifiant](#les-selecteurs-didentifiant)
 
 
 
 ## Les selecteurs de balise
 
+En reprennant l'exemple du schéma, si je souhaite modifier le style des balises ``<p>`` qui se trouve dans les balises ``<article>``, il faut écrire le code ci-dessous :
 
+````css
+article p{
+    font-size: 11px;
+}
+````
 
 ## Les selecteurs de classe
 

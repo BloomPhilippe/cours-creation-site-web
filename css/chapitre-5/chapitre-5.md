@@ -52,6 +52,10 @@
     }
     ````
     
+    ````html
+    <p class="a b c"></p>
+    ````
+    
 7. Attribut dont la valeur contient séparée par tiret
 
     ````css
@@ -60,6 +64,9 @@
     }
     ````
     
+    ````html
+    <p class="a-b-c"></p>
+    ````
     
 8. Plusieurs attributs
 

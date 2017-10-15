@@ -108,6 +108,9 @@ h1{
 p{
  font-weight: bold;
 }
+.text-bold{
+ font-weight: bold;
+}
 ````
 
 **Déclaration unique**

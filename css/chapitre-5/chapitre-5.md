@@ -79,7 +79,7 @@
 
 ## Pseudo-classes
 
-![pseudo](img/attrs.png)
+![pseudo](img/pseudo.png)
 
 
 1. Première balise ``<p>``
@@ -146,11 +146,24 @@
     }
     ````
     
+## Pseudo-éléments
+
+![pseudo](img/pseudo-elem.png)
+
+
+
+## Ressources
+
+- [Liste des pseudo-classes](https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes)
+- [CSS Cheat sheet](pdf/memento/CSS-Sheet.pdf)
+- [Mémo CSS](pdf/memento/memo_css_proprietes.pdf)
+- [memento CSS3](pdf/memento/memento-css3-v2.pdf)
 
 
 
 
+---
 
-## Pseudo-classes
+[:back:](../chapitre-4/chapitre-4-selecteurs.md) | [:soon:]()
 
 

@@ -72,7 +72,7 @@ Cela permet de modifier le style de certain élément en particulier, d'obtenir 
 
 ## Les selecteurs d'identifiant
 
-L'utilisation des identifiants est fort similaire aux classes sauf qu'on ne peut que l'utiliser sur qu'une seule balise dans une page HTML.
+L'utilisation des identifiants est fort similaire aux classes sauf qu'on ne peut que l'utiliser sur qu'une seule balise dans une page HTML (utilisation unique).
 
 Par contre, les identifiant sont plus puissants que les classes, ce qui veut dire que les propriétés dans le style de l'identifiant annuleront le style des propriétés identiques dans une classe.
 Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant aussi, ce sera la couleur de l'identifiant qui sera utilisée...
@@ -90,6 +90,9 @@ Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant 
     font-weight: bold;
 }
 ```
+
+## Identifiant & classe
+
 
 ![classe & id](img/classe-id.png)
 

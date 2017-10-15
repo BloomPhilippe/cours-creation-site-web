@@ -22,6 +22,7 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 - [Chapitre 2 - Règles et déclarations](chapitre-2/chapitre-2-regles-et-declarations.md)
 - [Chapitre 3 - Style par défaut](chapitre-3/chapitre-3-style-defaut.md)
 - [Chapitre 4 - Les sélecteurs](chapitre-4/chapitre-4-selecteurs.md)
+- [Chapitre 5 - Les sélecteurs avancés](chapitre-5/chapitre-5.md)
 
 
 

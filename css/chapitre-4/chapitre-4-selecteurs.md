@@ -96,3 +96,8 @@ Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant 
 
 ![classe & id](img/classe-id.png)
 
+
+## Regroupement des séléecteurs
+
+
+

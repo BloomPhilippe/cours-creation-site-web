@@ -99,5 +99,21 @@ Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant 
 
 ## Regroupement des séléecteurs
 
+**Déclaration multiple**
 
+````css
+h1{
+ font-weight: bold;
+}
+p{
+ font-weight: bold;
+}
+````
 
+**Déclaration unique**
+
+````css
+h1, p, .text-bold{
+ font-weight: bold;
+}
+````

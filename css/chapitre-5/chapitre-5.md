@@ -158,6 +158,10 @@
 - [CSS Cheat sheet](pdf/memento/CSS-Sheet.pdf)
 - [Mémo CSS](pdf/memento/memo_css_proprietes.pdf)
 - [memento CSS3](pdf/memento/memento-css3-v2.pdf)
+- [Unicode](https://unicode-table.com/fr/#0063)
+- [Sélecteurs de niveau 3](https://www.w3.org/TR/css3-selectors/)
+- [Sélecteurs de niveau 4](https://www.w3.org/TR/selectors4/)
+- [Sélecteurs w3schools](https://www.w3schools.com/cssref/css_selectors.asp)
 
 
 

@@ -1,0 +1,39 @@
+/* Début du CSS de base écrit par le professeur */
+
+body{
+    font-size: 18px;
+    color: #000000;
+    padding: 0 100px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+article{
+    padding: 20px;
+    background-color: #efefef;
+    border: 1px #000000 solid;
+    margin: 20px 0;
+}
+
+article p{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+article ol{
+    padding-left: 20px;
+    list-style: decimal;
+}
+
+article ol li{
+    padding: 5px 0;
+}
+
+/* Fin du CSS de base écrit par le professeur */

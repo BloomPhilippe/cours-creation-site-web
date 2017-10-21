@@ -330,6 +330,11 @@
 ![pseudo](img/pseudo-elem.png)
 
 
+## Exercices
+
+- [Execices partie 1](exercices)
+- [Execices partie 2](exercices-2)
+
 
 ## Ressources
 
@@ -338,6 +343,8 @@
 - [Mémo CSS](pdf/memento/memo_css_proprietes.pdf)
 - [memento CSS3](pdf/memento/memento-css3-v2.pdf)
 - [Unicode](https://unicode-table.com/fr/#0063)
+- [Unicode 2](https://apps.timwhitlock.info/emoji/tables/unicode)
+- [Unicode Explication](https://www.w3schools.com/charsets/ref_utf_misc_symbols.asp)
 - [Sélecteurs de niveau 3](https://www.w3.org/TR/css3-selectors/)
 - [Sélecteurs de niveau 4](https://www.w3.org/TR/selectors4/)
 - [Sélecteurs w3schools](https://www.w3schools.com/cssref/css_selectors.asp)

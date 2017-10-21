@@ -100,11 +100,9 @@
     </body>
     ````
     
-    **Attention**, si une balise ``<p>`` ne se trouve pas en premier, le code ci-dessus ne fonctionnera pas!
+    **Attention**, si une balise ``<p>`` ne se trouve pas en première position (toutes balises confondues), le code CSS ne fonctionnera pas!
     
-    Ceci ne fonctionnera pas si ``<h1>`` se trouve avant les ``<p>``...
-    
-    Voici un exemple non fonctionnel :
+    Voici un exemple non fonctionnel car ``<h1>`` se trouve avant les ``<p>``, en première position...
     
     ````html
     <body>
@@ -161,9 +159,9 @@
     </body>
     ````    
     
-    **Attention**, si une balise ``<p>`` ne se trouve pas en dernier, le code ci-dessus ne fonctionnera pas!
-   
-    Ceci ne fonctionnera pas car ``<h1>`` se trouve avant les ``<p>``
+    **Attention**, si une balise ``<p>`` ne se trouve pas en derniere position (toutes balises confondues), le code CSS ne fonctionnera pas!
+    
+    Voici un exemple non fonctionnel car ``<h1>`` se trouve en dernier...
     
     :-1:
     
@@ -205,6 +203,35 @@
     }
     ````
     
+    Exemple :
+        
+    ````html
+    <body>   
+        <p></p>
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+        <p></p>
+        <p></p>
+    </body>
+    ````    
+    
+    **Attention**, si une balise ``<p>`` ne se trouve pas en quatrième position (toutes balises confondues) , le code CSS ne fonctionnera pas!
+    
+    Voici un exemple non fonctionnel car ``<h1>`` se trouve avant les ``<p>``, en première position...
+    
+    :-1:
+    
+    ````html
+    <body>
+        <p></p>
+        <p></p>
+        <p></p>
+        <h1></h1>
+        <p></p>
+        <p></p>
+    </body>
+    ````
     
 5. La quatrième balise de type ``<p>``
 
@@ -213,6 +240,21 @@
        background-color: #3c763d;
     }
     ````
+    
+    Exemple :
+        
+    ````html
+    <body>   
+        <p></p>
+        <p></p>
+        <p></p>
+        <h1></h1>
+        <h2></h2>
+        <p>Ici</p>
+        <p></p>
+        <p></p>
+    </body>
+    ````  
     
     
 6. A partir de la troisième balise ``<p>`` selectionner toutes les deuxièmes balises ``<p>``

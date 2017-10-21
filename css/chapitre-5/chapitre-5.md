@@ -89,7 +89,7 @@
        background-color: #3c763d;
     }
     ````
-    Attention, si une balise ``<p>`` ne se trouve pas en premier, le code ci-dessus ne fonctionnera pas!
+    **Attention**, si une balise ``<p>`` ne se trouve pas en premier, le code ci-dessus ne fonctionnera pas!
     
     Exemple :
     

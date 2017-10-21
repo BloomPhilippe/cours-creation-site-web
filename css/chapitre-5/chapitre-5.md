@@ -82,16 +82,29 @@
 ![pseudo](img/pseudo.png)
 
 
-1. Première balise ``<p>``
+1. La première balise
 
     ````css
     p:first-child {
        background-color: #3c763d;
     }
     ````
+    Exemple :
+    
+    ````html
+    <body>     
+        <p>Ici</p>
+        <h1></h1>
+        <p></p>
+        <p></p>
+    </body>
+    ````
+    
     **Attention**, si une balise ``<p>`` ne se trouve pas en premier, le code ci-dessus ne fonctionnera pas!
     
-    Exemple :
+    Ceci ne fonctionnera pas si ``<h1>`` se trouve avant les ``<p>``...
+    
+    Voici un exemple non fonctionnel :
     
     ````html
     <body>
@@ -102,21 +115,35 @@
     </body>
     ````
     
-    Ceci ne fonctionnera pas car ``<h1>`` se trouve avant les ``<p>``
+    Cette régle est valable pour ``:last-child`` et ``:nth-child``...
     
-    Voici un exemple fonctionnel :
+    Il y a d'autres sélecteurs qui pourront fonctionner avec n'import quelle structure.
+    
+    Il sagit de ``:first-of-type``, ``:nth-of-type()``, ``:last-of-type``
+    
+    
+
+2. La première balise de type ``<p>``
+
+    ````css
+    p:first-of-type {
+       background-color: #3c763d;
+    }
+    ````
+    
+    Exemple :
     
     ````html
     <body>
-        <p></p>
+        <h1></h1>
+        <h2></h2>
+        <p>Ici</p>
         <p></p>
         <p></p>
     </body>
     ````
     
-    Cette régle est valable pour ``:last-child`` et ``:nth-child``.
-
-2. Dernière balise ``<p>``
+3. La dernière balise
 
     ````css
     p:last-child {
@@ -124,23 +151,53 @@
     }
     ````
     
-3. Toutes les balises ``<p>`` impair
-
-    ````css
-    p:nth-child(odd) {
-       background-color: #3c763d;
-    }
+    Exemple :
+    
+    ````html
+    <body>   
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+    </body>
+    ````    
+    
+    **Attention**, si une balise ``<p>`` ne se trouve pas en dernier, le code ci-dessus ne fonctionnera pas!
+   
+    Ceci ne fonctionnera pas car ``<h1>`` se trouve avant les ``<p>``
+    
+    :-1:
+    
+    ````html
+    <body>
+        <p></p>
+        <p></p>
+        <p></p>
+        <h1></h1>
+    </body>
     ````
-
-4. Toutes les balises ``<p>`` pair
+    
+    
+4. La dernière balise de type ``<p>``
 
     ````css
-    p:nth-child(even) {
+    p:last-of-type {
        background-color: #3c763d;
     }
     ````
     
-5. La quatrième balise ``<p>``
+    Exemple :
+    
+    ````html
+    <body>
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+        <h1></h1>
+    </body>
+    ````
+   
+    
+5. La quatrième balise
 
     ````css
     p:nth-child(4) { 
@@ -148,7 +205,17 @@
     }
     ````
     
-5. A partir de la troisième balise ``<p>`` selectionner toutes les deuxièmes balises ``<p>``
+    
+5. La quatrième balise de type ``<p>``
+
+    ````css
+    p:nth-of-type(4) { 
+       background-color: #3c763d;
+    }
+    ````
+    
+    
+6. A partir de la troisième balise ``<p>`` selectionner toutes les deuxièmes balises ``<p>``
 
     ````css
     p:nth-child(2n+3) { 
@@ -156,7 +223,7 @@
     }
     ````
     
-6. Toutes les balises ``<p>`` jusqu'à la troisième
+7. Toutes les balises ``<p>`` jusqu'à la troisième
 
     ````css
     p:nth-child(-n+3) { 
@@ -164,7 +231,7 @@
     }
     ````
     
-7. Toutes les balises ``<p>`` au survole du curseur
+8. Toutes les balises ``<p>`` au survole du curseur
 
     ````css
     p:hover {

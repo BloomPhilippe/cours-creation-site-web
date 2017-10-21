@@ -333,7 +333,14 @@
 ## Exercices
 
 - [Execices partie 1](exercices)
+
+    Télécharger le contenu du lien ci-dessus et liserle PDF
+    
+    
 - [Execices partie 2](exercices-2)
+
+    Télécharger le contenu du lien ci-dessus et vous trouverez l'énoncer dans le code HTML.
+    Vous ne devez que manipuler le fichier main.css.
 
 
 ## Ressources

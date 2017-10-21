@@ -16,6 +16,10 @@
 
     - C'est un extension pour les navigateurs qui vous permet savoir de quelle technologie le site que vous visitez utilise.
     
+- [Typing.io](https://typing.io/)
+
+    - Ce site vous permet de vous entrainer à taper au clavier plus vite donc à coder plus rapidement.
+    
 
 
 

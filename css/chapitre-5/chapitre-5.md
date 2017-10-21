@@ -264,6 +264,28 @@
        background-color: #3c763d;
     }
     ````
+        
+    Exemple :
+        
+    ````html
+    <body>   
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+        <p></p>
+        <p>Ici</p>   
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+        <p></p>
+        <p>Ici</p>   
+        <p></p>
+        <p></p>
+        <p>Ici</p>
+        <p></p>
+        <p>Ici</p>
+    </body>
+    ````  
     
 7. Toutes les balises ``<p>`` jusqu'à la troisième
 
@@ -272,6 +294,27 @@
        background-color: #3c763d;
     }
     ````
+            
+    Exemple :
+        
+    ````html
+    <body>   
+        <p>Ici</p>
+        <p>Ici</p>
+        <p>Ici</p>
+        <p></p>
+        <p></p>   
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>   
+        <p></p>
+        <p></p>
+        <p></p>
+    </body>
+    ````
+ 
     
 8. Toutes les balises ``<p>`` au survole du curseur
 

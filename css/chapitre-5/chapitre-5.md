@@ -89,6 +89,32 @@
        background-color: #3c763d;
     }
     ````
+    Attention, si une balise ``<p>`` ne se trouve pas en premier, le code ci-dessus ne fonctionnera pas!
+    
+    Exemple :
+    
+    ````html
+    <body>
+        <h1></h1>
+        <p></p>
+        <p></p>
+        <p></p>
+    </body>
+    ````
+    
+    Ceci ne fonctionnera pas car ``<h1>`` se trouve avant les ``<p>``
+    
+    Voici un exemple fonctionnel :
+    
+    ````html
+    <body>
+        <p></p>
+        <p></p>
+        <p></p>
+    </body>
+    ````
+    
+    Cette régle est valable pour ``:last-child`` et ``:nth-child``.
 
 2. Dernière balise ``<p>``
 
@@ -145,7 +171,8 @@
        background-color: #3c763d;
     }
     ````
-    
+
+
 ## Pseudo-éléments
 
 ![pseudo](img/pseudo-elem.png)

@@ -20,6 +20,14 @@
 
     - Ce site vous permet de vous entrainer à taper au clavier plus vite donc à coder plus rapidement.
     
+- [Speedcoder](http://www.speedcoder.net/)
+
+    - Ce site vous permet de vous entrainer à taper au clavier plus vite donc à coder plus rapidement.
+    
+- [Typing.com](https://www.typing.com/student/lessons/384/paragraph-practice)
+
+    - Ce site vous permet de vous entrainer à taper au clavier plus vite.
+    
 
 
 

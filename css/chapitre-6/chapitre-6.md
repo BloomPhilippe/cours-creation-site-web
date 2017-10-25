@@ -31,3 +31,8 @@ Avec les différentes propriétées, vous pouvez :
 
 
 **Attention avec la version courte pour la propriété ``font``, vous devez respecter l'ordre**
+
+
+# Les valeurs
+
+Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3C](https://www.w3.org/TR/css-values-3/)

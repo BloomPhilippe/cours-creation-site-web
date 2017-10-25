@@ -46,3 +46,13 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 **Schémas des différents types de valeurs :**
 
 ![valeur](img/valeurs.png)
+
+## Les types de valeur
+
+- Type texte
+
+    ```css
+    font-family: "Times New Roman", Times, serif;
+    ```
+    
+    Vous trouverez la liste des noms de polices disponible [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)

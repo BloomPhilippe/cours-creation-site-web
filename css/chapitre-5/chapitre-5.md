@@ -327,7 +327,45 @@
 
 ## Pseudo-éléments
 
+Les pseudo-éléments peuvent s'utiliser de 2 manières, avec les : ou avec :: .
+
+En CSS2, c'est :
+
+En CSS3, c'est ::
+
+Plus le navigateur sera récent, plus il faudra utiliser le CSS3
+
 ![pseudo](img/pseudo-elem.png)
+
+
+1. La première ligne
+
+    ````css
+    p:first-line {
+       background-color: #3c763d;
+    }
+    ````
+    Exemple :
+    
+    ````html
+    <body>     
+        <p>
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+       </p>
+    </body>
+    ````
+    
+    **Attention**, first-line ne fonctionne qu'avec les propiétées liées au changement de texte, de fond et de coleur :
+    
+    - font, font-weight, font-size, etc...
+    - color
+    - background-color, background-size, background-position, etc...
+    - text-decoration, text-transform, vertical-align, line-height, etc...
+    
+    
+
 
 
 ## Exercices

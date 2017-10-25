@@ -20,3 +20,10 @@ Avec les différentes propriétées, vous pouvez :
 - Créer des formes [exemple ici](https://css-tricks.com/examples/ShapesOfCSS/)
 - Créer des masques [exemple](https://css-tricks.com/clipping-masking-css/)
 
+
+## Ecriture longue ou courte
+
+![liste](img/margin-1.png)
+
+
+![liste](img/courtes.png)

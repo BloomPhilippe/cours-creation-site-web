@@ -339,7 +339,7 @@ Plus le navigateur sera récent, plus il faudra utiliser le CSS3
 
 
 1. La première ligne
-
+    
     ````css
     p:first-line {
        background-color: #3c763d;

@@ -52,7 +52,9 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 - Type texte
 
     ```css
-    font-family: "Times New Roman", Times, serif;
+    p {
+      font-family: "Times New Roman", Times, serif;
+    }
     ```
     
     Vous trouverez la liste des noms de polices de bases disponibles [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)

@@ -36,3 +36,7 @@ Avec les différentes propriétées, vous pouvez :
 # Les valeurs
 
 Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3C](https://www.w3.org/TR/css-values-3/)
+
+**Schémas des différents types de valeurs :**
+
+![valeur](img/valeurs.png)

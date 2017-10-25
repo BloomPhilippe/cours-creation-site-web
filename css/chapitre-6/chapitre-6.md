@@ -28,3 +28,5 @@ Avec les différentes propriétées, vous pouvez :
 
 
 ![liste](img/courtes.png)
+
+**Attention avec la version courte pour la propriété ``font``, vous devez respecter l'ordre**

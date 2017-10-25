@@ -46,5 +46,14 @@ q::after {
 p:first-line {
     background-color: #3c763d;
 }
+p:first-letter {
+    text-transform: uppercase;
+}
+
+p:before {
+    content:"\260E";
+    font-size: 25px;
+    padding-right: 10px;
+}
 
 

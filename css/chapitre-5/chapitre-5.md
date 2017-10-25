@@ -365,7 +365,47 @@ Plus le navigateur sera récent, plus il faudra utiliser le CSS3
     - text-decoration, text-transform, vertical-align, line-height, etc...
     
     
-
+2. La première lettre
+    
+    ````css
+    p:first-letter {
+       text-transform: uppercase;
+    }
+    ````
+    Exemple :
+    
+    ````html
+    <body>     
+        <p>
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequatur dolor doloremque ducimus enim fugit, id illum, magni natus nisi nostrum odit optio praesentium, ratione reiciendis repudiandae sapiente temporibus ut?
+       </p>
+    </body>
+    ````    
+    
+    
+2. Before ou after
+    
+    **BEFORE**
+    
+    ````css
+    p:before {
+        content:"\260E";
+        font-size: 25px;
+        padding-right: 10px;
+    }
+    ````
+    
+     **AFTER**
+        
+    ````css
+    p:after {
+        content:"\2764";
+        font-size: 25px;
+        padding-right: 10px;
+    }
+    ````
 
 
 ## Exercices

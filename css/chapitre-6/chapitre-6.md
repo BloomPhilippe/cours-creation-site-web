@@ -24,7 +24,13 @@ Avec les différentes propriétées, vous pouvez :
 
 ## Ecriture longue ou courte
 
+**Schémas avec margin (peut être utilisé de la même façon avec padding) :**
+
+
 ![liste](img/margin-1.png)
+
+
+**Autres versions courtes**
 
 
 ![liste](img/courtes.png)

@@ -111,6 +111,7 @@ L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
 ### Type expressions
 
 
+
 - **Calcul**
 
     ```css
@@ -126,6 +127,7 @@ L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
     Vous pouvez effectuer un bon nombre de calcul intéressant.
     
     
+    
 - **Attribut**
    
     ```css
@@ -139,6 +141,7 @@ L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
     ```
     
     ``attr(data-ref)`` va rechercher la valeur de l'attribut HTML ``data-ref`` donc 1234
+    
     
     
 - **Counteur**

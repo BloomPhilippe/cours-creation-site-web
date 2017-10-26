@@ -71,6 +71,9 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     Vous constatez que ``x-large`` n'est pas numérique.
     
     ```css
+    body {
+      color: #3c763d;
+    }
     p {
       color: inherit;
     }

@@ -22,7 +22,7 @@ Avec les différentes propriétées, vous pouvez :
 
 
 
-## Ecriture longue ou courte
+## Ecriture étendue ou abrégée
 
 **Schémas avec margin (peut être utilisé de la même façon avec padding) :**
 
@@ -36,7 +36,7 @@ Avec les différentes propriétées, vous pouvez :
 ![liste](img/courtes.png)
 
 
-**Attention avec la version courte pour la propriété ``font``, vous devez respecter l'ordre**
+**Attention avec la version abrégée pour la propriété ``font``, vous devez respecter l'ordre**
 
 
 # Les valeurs
@@ -47,7 +47,18 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 
 ![valeur](img/valeurs.png)
 
-## Les types de valeur
+## Les types de valeurs
+
+- Type texte
+
+    ```css
+    p {
+      font-family: "Times New Roman", Times, serif;
+    }
+    ```
+    
+    Vous trouverez la liste des noms de polices de bases disponibles [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)
+
 
 - Type texte
 

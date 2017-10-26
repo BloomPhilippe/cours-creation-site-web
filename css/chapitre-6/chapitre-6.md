@@ -60,12 +60,53 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     Vous trouverez la liste des noms de polices de bases disponibles [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)
 
 
-- Type texte
+- Type mots-clés
 
     ```css
     p {
-      font-family: "Times New Roman", Times, serif;
+      font-size: x-large;
     }
     ```
     
-    Vous trouverez la liste des noms de polices de bases disponibles [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)
+    Vous constatez que ``x-large`` n'est pas numérique.
+    
+    ```css
+    p {
+      color: inherit;
+    }
+    ```
+    
+    ``inherit`` veut dire que la valeur sera la même que celle du sélecteur parent. 
+    Si aucun sélecteur parent ne se trouve dans le code CSS, il reprendra la valeur de body...
+
+
+- Type couleur
+
+    ```css
+    p {
+      color: rgba(0,0,0,0.5);
+    }
+    ```
+    
+    Ou
+    
+    ```css
+    p {
+      color: #000;
+    }
+    ```
+    
+    L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
+
+
+- Type calcul
+
+    ```css
+    div {
+      margin-left: calc(100%*4);
+    }
+      
+    div {
+      width: calc(200px + (100%*4));
+    }
+    ```

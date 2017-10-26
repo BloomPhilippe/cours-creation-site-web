@@ -43,13 +43,14 @@ Avec les différentes propriétées, vous pouvez :
 
 Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3C](https://www.w3.org/TR/css-values-3/)
 
+
+## Les types de valeurs
+
 **Schémas des différents types de valeurs :**
 
 ![valeur](img/valeurs.png)
 
-## Les types de valeurs
-
-- **Type texte**
+### Type texte
 
     ```css
     p {
@@ -65,49 +66,52 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     }
     ```
         
-- **Type mots-clés**
+### Type mots-clés
 
-    ```css
-    p {
-      font-size: x-large;
-    }
-    ```
-    
-    Vous constatez que ``x-large`` n'est pas numérique.
-    
-    ```css
-    body {
-      color: #3c763d;
-    }
-    p {
-      color: inherit;
-    }
-    ```
-    
-    ``inherit`` veut dire que la valeur sera la même que celle du sélecteur parent. 
-    Si aucun sélecteur parent ne se trouve dans le code CSS, il reprendra la valeur de body...
+```css
+p {
+  font-size: x-large;
+}
+```
 
+Vous constatez que ``x-large`` n'est pas numérique.
 
-- **Type couleur**
+```css
+body {
+  color: #3c763d;
+}
+p {
+  color: inherit;
+}
+```
 
-    ```css
-    p {
-      color: rgba(0,0,0,0.5);
-    }
-    ```
-    
-    Ou
-    
-    ```css
-    p {
-      color: #000;
-    }
-    ```
-    
-    L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
+``inherit`` veut dire que la valeur sera la même que celle du sélecteur parent. 
+Si aucun sélecteur parent ne se trouve dans le code CSS, il reprendra la valeur de body...
 
 
-- **Type expressions**
+### Type couleur
+
+```css
+p {
+  color: rgba(0,0,0,0.5);
+}
+```
+    
+Ou
+
+```css
+p {
+  color: #000;
+}
+```
+
+L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
+
+
+### Type expressions
+
+
+- **Calcul**
 
     ```css
     div {
@@ -121,6 +125,9 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     
     Vous pouvez effectuer un bon nombre de calcul intéressant.
     
+    
+- **Attribut**
+   
     ```css
     div:after {
       content: attr(data-ref);
@@ -132,6 +139,9 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     ```
     
     ``attr(data-ref)`` va rechercher la valeur de l'attribut HTML ``data-ref`` donc 1234
+    
+    
+- **Counteur**
     
     ```css
     body {

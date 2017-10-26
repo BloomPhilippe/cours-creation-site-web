@@ -163,6 +163,11 @@ L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
     
     
     
-    
+
+
+
+---
+
+[:back:](../chapitre-5/chapitre-5.md) | [:soon:]()    
     
     

@@ -441,6 +441,6 @@ Plus le navigateur sera récent, plus il faudra utiliser le CSS3
 
 ---
 
-[:back:](../chapitre-4/chapitre-4-selecteurs.md) | [:soon:]()
+[:back:](../chapitre-4/chapitre-4-selecteurs.md) | [:soon:](../chapitre-6/chapitre-6.md)
 
 

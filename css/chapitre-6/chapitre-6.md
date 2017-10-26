@@ -158,7 +158,7 @@ L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
     }
     ```
     
-    ![count](img/count.png)
+    ![count](img/count1.png)
     
     
     

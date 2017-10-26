@@ -49,7 +49,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 
 ## Les types de valeurs
 
-- Type texte
+- **Type texte**
 
     ```css
     p {
@@ -65,7 +65,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     }
     ```
         
-- Type mots-clés
+- **Type mots-clés**
 
     ```css
     p {
@@ -88,7 +88,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     Si aucun sélecteur parent ne se trouve dans le code CSS, il reprendra la valeur de body...
 
 
-- Type couleur
+- **Type couleur**
 
     ```css
     p {
@@ -107,7 +107,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
 
 
-- Type expressions
+- **Type expressions**
 
     ```css
     div {

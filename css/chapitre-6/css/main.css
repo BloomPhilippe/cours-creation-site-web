@@ -1,0 +1,10 @@
+body {
+  counter-reset: titre;
+  padding:15px;
+}
+h1{
+  counter-increment: titre;
+}
+h1:before{
+  content: counter(titre) " - ";
+}

@@ -133,6 +133,20 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     
     ``attr(data-ref)`` va rechercher la valeur de l'attribut HTML ``data-ref`` donc 1234
     
+    ```css
+    body {
+      counter-reset: titre;
+    }
+    h1{
+      counter-increment: titre;
+    }
+    h1:before{
+      content: counter(titre) " - ";
+    }
+    ```
+    
+    ![count](img/count.png)
+    
     
     
     

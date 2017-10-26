@@ -59,7 +59,12 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     
     Vous trouverez la liste des noms de polices de bases disponibles [ICI](https://www.w3schools.com/cssref/css_websafe_fonts.asp) ou [ICI](https://www.w3.org/Style/Examples/007/fonts.fr.html)
 
-
+    ```css
+    p:before {
+      content: "\2618";
+    }
+    ```
+        
 - Type mots-clés
 
     ```css
@@ -102,7 +107,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
     L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
 
 
-- Type calcul
+- Type expressions
 
     ```css
     div {
@@ -113,3 +118,24 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
       width: calc(200px + (100%*4));
     }
     ```
+    
+    Vous pouvez effectuer un bon nombre de calcul intéressant.
+    
+    ```css
+    div:after {
+      content: attr(data-ref);
+    }
+    ```
+    
+    ```html
+    <p data-ref="1234"></p>
+    ```
+    
+    ``attr(data-ref)`` va rechercher la valeur de l'attribut HTML ``data-ref`` donc 1234
+    
+    
+    
+    
+    
+    
+    

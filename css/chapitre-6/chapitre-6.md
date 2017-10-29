@@ -50,6 +50,26 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 
 ![valeur](img/valeurs.png)
 
+### Type nombre
+
+```css
+h1 {
+  font-size: 1vmin;
+}
+```
+
+```css
+p {
+  font-size: 10px;
+}
+```
+
+```css
+div{
+    width: 50%;
+}
+```
+
 ### Type texte
 
 ```css

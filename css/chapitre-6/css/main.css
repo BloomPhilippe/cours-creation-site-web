@@ -1,10 +1,13 @@
 body {
-  counter-reset: titre;
-  padding:15px;
+    counter-reset: titre;
+    padding: 15px;
+    font-size: 200%;
 }
-h1{
-  counter-increment: titre;
+
+h1 {
+   font-size: 2em;
 }
-h1:before{
-  content: counter(titre) " - ";
+
+h1:before {
+    content: counter(titre) " - ";
 }

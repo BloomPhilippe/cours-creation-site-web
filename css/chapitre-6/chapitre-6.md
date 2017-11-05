@@ -175,6 +175,7 @@ Vous constatez que ``x-large`` n'est pas numérique.
 body {
   color: #3c763d;
 }
+
 p {
   color: inherit;
 }
@@ -187,6 +188,7 @@ Si aucun sélecteur parent ne se trouve dans le code CSS, il reprendra la valeur
 body {
   color: #3c763d;
 }
+
 p {
   color: #000000!important;
 }
@@ -198,13 +200,8 @@ Ce mot-clé est à utiliser qu'en cas d'**extrème nécessité** !
 
 ### Type couleur
 
-```css
-p {
-  color: rgba(0,0,0,0.5);
-}
-```
-    
-Ou
+![couleurs](img/couleurs.png)
+
 
 ```css
 p {
@@ -212,11 +209,17 @@ p {
 }
 ```
 
+```css
+p {
+  color: rgba(0,0,0,0.5);
+}
+```
+
 L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
 
 
-### Type expressions
 
+### Type expressions
 
 
 - **Calcul**

@@ -203,9 +203,17 @@ Ce mot-clé est à utiliser qu'en cas d'**extrème nécessité** !
 ![couleurs](img/couleurs.png)
 
 
+
 ```css
 p {
   color: #000;
+}
+```
+
+
+```css
+p {
+  color: rgb(0,0,0);
 }
 ```
 
@@ -215,9 +223,28 @@ p {
 }
 ```
 
-L'avantage avec ``rgba``, c'est que l'on peut gèrer l'opacité.
+Avec ``rgba``, on peut gèrer l'opacité.
 
 
+```css
+p {
+  color: hsl(60,100%,25%);
+}
+```
+
+```css
+p {
+  color: hsla(60,100%,25%,0.5);
+}
+```
+
+Avec ``hsla``, on peut gèrer l'opacité.
+
+
+### Liens utiles
+
+[Liste des coleurs W3C](https://www.w3.org/wiki/CSS/Properties/color/keywords)
+[Liste des coleurs Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
 ### Type expressions
 

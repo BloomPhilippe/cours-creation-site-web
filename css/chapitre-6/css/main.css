@@ -41,6 +41,14 @@ div:nth-of-type(5){
      height: 100px;
 }
 
+div:nth-of-type(6){
+     border-top: 20px solid transparent;
+     border-bottom: 20px solid transparent;
+     border-left: 20px solid #3c763d;
+     width: 50vw;
+     height: 1px;
+}
+
 div > div{
     background-color: #014c8c;
     width: 10vw;

@@ -73,9 +73,60 @@ Avec ``hsla``, on peut gèrer l'opacité.
 
 
 
-### Liens utiles
+## Liens utiles
 
 - [Liste des coleurs](https://www.w3.org/wiki/CSS/Properties/color/keywords)
 - [Liste des coleurs et des fonctions](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - [Adobe color CC](https://color.adobe.com/fr/create/color-wheel/?base=2&rule=Analogous&selected=0&name=Mon%20th%C3%A8me%20Color&mode=rgb&rgbvalues=0.709087013219719,1,0.650510065756196,0.91,0.6595764867472764,0.04550000000000004,1,0,0,0.14143670494515384,0.04550000000000004,0.91,0.050000000000000044,1,0.7169197085622045&swatchOrder=0,1,2,3,4)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+
+
+
+# Les dégradé
+
+
+
+## Linéaire
+
+Le dégradé linéaire se règle avec 3 variables la direction, la couleur de départ et la couleur de fin.
+
+Exemple de gauche à droite :
+
+````css
+div{
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(255, 255, 255));
+    width: 50vw;
+    height: 100px;
+}
+````
+
+Exemple de haut en bas :
+
+````css
+div{
+    background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(255, 255, 255));
+    width: 50vw;
+    height: 100px;
+}
+````
+
+## Radial
+
+Le dégradé linéaire se règle avec 3 variables la forme avec le point de départ, la couleur de départ et la couleur de fin.
+
+Exemple :
+
+````css
+div{
+    background: radial-gradient(circle at 50% 100%, rgb(0, 0, 0), rgb(255, 255, 255));
+    width: 50vw;
+    height: 100px;
+}
+````
+
+## Liens utiles
+
+
+[Explications complémentaires linéaire](https://developer.mozilla.org/fr/docs/Web/CSS/linear-gradient)
+[Explications complémentaires radial](https://developer.mozilla.org/fr/docs/Web/CSS/radial-gradient)
+[Générateur](http://www.colorzilla.com/gradient-editor/)

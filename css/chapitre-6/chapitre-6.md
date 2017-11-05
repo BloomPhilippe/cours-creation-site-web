@@ -95,7 +95,7 @@ p:nth-of-type(4) {
 }
 ```
 
-`` 0.5em `` est un nombre de type proportionnelle.
+`` 0.5rem `` est un nombre de type proportionnelle.
 
 Cela vaut dire que la taille de la police de ```p:nth-of-type(4)``` sera la moitié de sont du premier parent donc ``body``
 

@@ -260,6 +260,9 @@ p {
 }
 ```
 
+![hsl](img/couleurs-tsl.png)
+
+
 ```css
 p {
   color: hsla(60,100%,25%,0.5);

@@ -211,6 +211,12 @@ p {
 }
 ```
 
+```css
+p {
+  color: blue;
+}
+```
+
 
 **Couleur en version hexadecimal**
 
@@ -228,13 +234,20 @@ p {
 }
 ```
 
+``rgb`` est l'abrégé de red green blue
+
+Elle permet de réglé la valeur de rouge de 0 à 255, le vert de 0 à 255 et le bleu de 0 à 255.
+
+![rgb](img/rgb-color-wheel-lg.jpg)
+
+
 ```css
 p {
   color: rgba(0,0,0,0.5);
 }
 ```
 
-Avec ``rgba``, on peut gèrer l'opacité.
+Avec ``rgba``, on peut gèrer également l'opacité de 0 à 1.
 
 
 ```css

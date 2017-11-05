@@ -203,6 +203,16 @@ Ce mot-clé est à utiliser qu'en cas d'**extrème nécessité** !
 ![couleurs](img/couleurs.png)
 
 
+**Couleur en version mots-clés**
+
+```css
+p {
+  color: green;
+}
+```
+
+
+**Couleur en version hexadecimal**
 
 ```css
 p {
@@ -210,6 +220,7 @@ p {
 }
 ```
 
+**Couleur en version decimal**
 
 ```css
 p {
@@ -243,8 +254,8 @@ Avec ``hsla``, on peut gèrer l'opacité.
 
 ### Liens utiles
 
-[Liste des coleurs W3C](https://www.w3.org/wiki/CSS/Properties/color/keywords)
-[Liste des coleurs Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [Liste des coleurs](https://www.w3.org/wiki/CSS/Properties/color/keywords)
+- [Liste des coleurs et des fonctions](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
 ### Type expressions
 

@@ -226,6 +226,8 @@ p {
 }
 ```
 
+
+
 **Couleur en version decimal**
 
 ```css
@@ -247,6 +249,8 @@ p {
 }
 ```
 
+
+
 Avec ``rgba``, on peut gèrer également l'opacité de 0 à 1.
 
 
@@ -265,10 +269,13 @@ p {
 Avec ``hsla``, on peut gèrer l'opacité.
 
 
+
 ### Liens utiles
 
 - [Liste des coleurs](https://www.w3.org/wiki/CSS/Properties/color/keywords)
 - [Liste des coleurs et des fonctions](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [Adobe color CC](https://color.adobe.com/fr/create/color-wheel/?base=2&rule=Analogous&selected=0&name=Mon%20th%C3%A8me%20Color&mode=rgb&rgbvalues=0.709087013219719,1,0.650510065756196,0.91,0.6595764867472764,0.04550000000000004,1,0,0,0.14143670494515384,0.04550000000000004,0.91,0.050000000000000044,1,0.7169197085622045&swatchOrder=0,1,2,3,4)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ### Type expressions
 

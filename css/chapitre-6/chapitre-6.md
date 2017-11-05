@@ -238,7 +238,7 @@ p {
 
 Elle permet de réglé la valeur de rouge de 0 à 255, le vert de 0 à 255 et le bleu de 0 à 255.
 
-![rgb](img/rgb-color-wheel-lg.jpg)
+![rgb](img/color-wheel-rgb.png)
 
 
 ```css

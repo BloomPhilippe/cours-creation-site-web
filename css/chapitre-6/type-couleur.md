@@ -130,3 +130,4 @@ div{
 [Explications complémentaires linéaire](https://developer.mozilla.org/fr/docs/Web/CSS/linear-gradient)
 [Explications complémentaires radial](https://developer.mozilla.org/fr/docs/Web/CSS/radial-gradient)
 [Générateur](http://www.colorzilla.com/gradient-editor/)
+[Autres exemples](css/main.css)

@@ -1,11 +1,11 @@
 body {
     counter-reset: titre;
-    padding: 15px;
+    padding: 10px;
     font-size: 200%;
 }
 
 h1 {
-   font-size: 2em;
+   font-size: 0.5em;
     color: hsl(50,50%,30%);
 }
 

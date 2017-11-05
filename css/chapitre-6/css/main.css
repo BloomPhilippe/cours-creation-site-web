@@ -1,7 +1,7 @@
 body {
     counter-reset: titre;
     padding: 10px;
-    font-size: 200%;
+    width: 100%;
 }
 
 h1 {
@@ -11,4 +11,15 @@ h1 {
 
 h1:before {
     content: counter(titre) " - ";
+}
+
+div{
+    background-color: #3c763d;
+    width: 50vw;
+    height: 100px;
+}
+
+div > div{
+    background-color: #014c8c;
+    width: 10vw;
 }

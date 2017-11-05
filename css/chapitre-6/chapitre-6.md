@@ -111,6 +111,28 @@ div{
 
 ```css
 h1 {
+  font-size: 1vw;
+}
+```
+
+`` 1vw `` est un nombre de type proportionnelle par rapport à la largeur.
+
+Cela veut dire 1% de la largeur de votre écran.
+
+
+```css
+h1 {
+  font-size: 1vh;
+}
+```
+
+`` 1vh `` est un nombre de type proportionnelle par rapport à la hauteur.
+
+Cela veut dire 1% de la hauteur de votre écran.
+
+
+```css
+h1 {
   font-size: 1vmin;
 }
 ```
@@ -136,6 +158,8 @@ p:before {
   content: "\2618";
 }
 ```
+
+Ici vous utilisez un texte qui représente une icon ou un caractère spécial comme [ici](https://unicode-table.com/fr/#0063)
         
 ### Type mots-clés
 

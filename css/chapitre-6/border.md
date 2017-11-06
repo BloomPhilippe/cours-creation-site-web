@@ -82,6 +82,8 @@ div{
 }
 ````
 
+![style](img/border-styles.png)
+
 
 
 ## Liens utiles

@@ -6,8 +6,10 @@ body {
 
 div{
     height: 50px;
-    width: 250px;
+    width: 50px;
     margin-bottom: 25px;
+    float: left;
+    margin-right: 15px;
 }
 
 div:first-of-type {

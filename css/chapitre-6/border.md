@@ -82,7 +82,7 @@ div{
 }
 ````
 
-![style](img/border-styles.png)
+![style](img/border-styles1.png)
 
 
 

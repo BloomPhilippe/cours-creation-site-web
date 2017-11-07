@@ -1,11 +1,13 @@
-# Les propriétés
+# Les propriétés & les valeurs
 
 **Rappel de la déclaration :**
 
 ![rappel](img/declaration.png)
 
 
-## Possibilités de toutes les propriétées
+# Les propriétés
+
+## L'ensemble des possibilités avec les propriétées
 
 ![liste](img/listing.png)
 
@@ -39,14 +41,20 @@ Avec les différentes propriétées, vous pouvez :
 **Attention avec la version abrégée pour la propriété ``font``, vous devez respecter l'ordre**
 
 
+
+---
+
+
+
+
 # Les valeurs
 
 Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3C](https://www.w3.org/TR/css-values-3/)
 
 
-## Les types de valeurs
+## Les différents types de valeurs
 
-**Schémas des différents types de valeurs :**
+**Schémas :**
 
 ![valeur](img/valeurs.png)
 

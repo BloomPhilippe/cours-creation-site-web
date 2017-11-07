@@ -11,7 +11,7 @@
 
 ![liste](img/listing.png)
 
-Avec les différentes propriétées, vous pouvez :
+Avec les différentes propriétés, vous pouvez :
 
 - Modifier la couleur des textes, la couleur de fond, ajouter une image de fond, etc...
 - Modifier le texte dont la taille, la police, l'épaiseur, l'alignement, etc..

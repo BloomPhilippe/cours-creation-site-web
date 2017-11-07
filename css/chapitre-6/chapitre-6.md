@@ -1,11 +1,11 @@
-# Les propriétés & les valeurs
+# 1 - Les propriétés & les valeurs
 
 **Rappel de la déclaration :**
 
 ![rappel](img/declaration.png)
 
 
-# Les propriétés
+# 2 - Les propriétés
 
 ## L'ensemble des possibilités avec les propriétés
 
@@ -44,7 +44,7 @@ Avec les différentes propriétés, vous pouvez :
 
 
 
-# Les valeurs
+# 3 - Les valeurs
 
 Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3C](https://www.w3.org/TR/css-values-3/)
 
@@ -67,7 +67,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 
 
     
-# Utilisation & exemples
+# 4 - Utilisation & exemples
 
 - [Les bordures](border.md)
 - [Les fonds de couleurs ou d'image](background.md)

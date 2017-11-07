@@ -7,7 +7,7 @@
 
 # Les propriétés
 
-## L'ensemble des possibilités avec les propriétées
+## L'ensemble des possibilités avec les propriétés
 
 ![liste](img/listing.png)
 

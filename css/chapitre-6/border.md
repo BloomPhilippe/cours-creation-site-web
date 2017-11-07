@@ -1,6 +1,6 @@
 # Border
 
-## Les différents types
+## Les différents styles
 
 - Simple
 
@@ -89,3 +89,10 @@ div{
 ## Liens utiles
 
 - [Informations complémentaires](https://developer.mozilla.org/fr/docs/Web/CSS/border-style)
+
+
+
+
+---
+
+[:back:](chapitre-6.md)    

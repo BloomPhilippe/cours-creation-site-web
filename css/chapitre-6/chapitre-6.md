@@ -42,9 +42,6 @@ Avec les différentes propriétées, vous pouvez :
 
 
 
----
-
-
 
 
 # Les valeurs

@@ -85,6 +85,9 @@ div{
 ![style](img/border-styles1.png)
 
 
+## L'utilisation d'une image
+
+
 
 ## Liens utiles
 

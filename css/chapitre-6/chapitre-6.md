@@ -67,7 +67,7 @@ Vous trouverez l'évolution et les descriptions des différentes valeurs sur [W3
 
 
     
-# 4 - Utilisation & exemples
+# 4 - Utilisations & exemples
 
 - [Les bordures](border.md)
 - [Les fonds de couleurs ou d'image](background.md)

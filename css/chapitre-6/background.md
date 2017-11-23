@@ -23,6 +23,8 @@ section:first-of-type div:first-of-type {
 }
 ````
 
+![style](img/bg1.png)
+
 
 
 

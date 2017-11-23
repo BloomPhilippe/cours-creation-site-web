@@ -26,6 +26,7 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 - [Chapitre 6 - Les propriétés & leurs valeurs](chapitre-6/chapitre-6.md)
 - [Chapitre 7 - Le flux courant](chapitre-7/chapitre-7.md)
 - [Chapitre 8 - Les positionnements](chapitre-8/chapitre-8.md)
+- [Chapitre 8 - Mise en page Flexbox](chapitre-9/chapitre-9.md)
 
 
 

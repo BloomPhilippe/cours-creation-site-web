@@ -105,7 +105,7 @@ Exemple d'une image de fond dont la taille remplis l'entièreté du conteneur en
   background-repeat: no-repeat;
 ````
 
-![style](img/bg6.png)
+![style](img/bg7.png)
 
 
 

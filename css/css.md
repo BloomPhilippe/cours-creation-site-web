@@ -24,6 +24,8 @@ Voici un exemple de tableau des compatibilités pour les Flexbox :
 - [Chapitre 4 - Les sélecteurs](chapitre-4/chapitre-4-selecteurs.md)
 - [Chapitre 5 - Les sélecteurs avancés](chapitre-5/chapitre-5.md)
 - [Chapitre 6 - Les propriétés & leurs valeurs](chapitre-6/chapitre-6.md)
+- [Chapitre 7 - Le flux courant](chapitre-7/chapitre-7.md)
+- [Chapitre 8 - Les positionnements](chapitre-8/chapitre-8.md)
 
 
 

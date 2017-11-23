@@ -114,3 +114,17 @@ section:first-of-type div:nth-of-type(8) {
     border-width: 30px;
     float: none;
 }
+.bor-img-4{
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-color: lightblue;
+    margin: 40px auto;
+    border-image-source: url(../img/border-hv.png);
+    border-image-repeat: repeat;
+    border-style: solid;
+    border-width: 30px;
+    float: none;
+    border-image-slice: 100 fill;
+    border-image-width: 55px;
+}

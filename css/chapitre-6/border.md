@@ -91,7 +91,9 @@ div{
 
 ## Liens utiles
 
-- [Informations complémentaires](https://developer.mozilla.org/fr/docs/Web/CSS/border-style)
+- [Informations complémentaires - styles](https://developer.mozilla.org/fr/docs/Web/CSS/border-style)
+- [Informations complémentaires - images ](https://developer.mozilla.org/fr/docs/Web/CSS/border-image)
+- [Tuto border image](https://letrainde13h37.fr/11/decouverte-de-la-propriete-css-border-image/)
 
 
 

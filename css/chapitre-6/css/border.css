@@ -72,3 +72,11 @@ section:first-of-type div:nth-of-type(8) {
     border-style: outset;
     border-color: #9e9e9e;
 }
+
+.bor-img{
+    height: 200px;
+    background-color: lightblue;
+    margin: 40px auto;
+    width: 80%;
+    border-image-source: url(../img/border-img1.png);
+}

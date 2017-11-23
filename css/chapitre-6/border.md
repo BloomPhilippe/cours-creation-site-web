@@ -82,7 +82,7 @@ div{
 }
 ````
 
-![style](img/border-styles1.png)
+![style](img/border-styles2.png)
 
 
 ## L'utilisation d'une image

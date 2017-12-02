@@ -23,7 +23,7 @@
 
 ## Installation Mac OS
 
-![install](video/install-windows.gif)
+![install](video/install-macos.gif)
 
 
 ## Configuration de base

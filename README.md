@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-- [Éditeur de code](editeur/editeur.md)
+- [Éditeur de code & IDE](editeur/editeur.md)
 - [Lorem Ipsum](autres/lorem-ipsum.md)
 - [CSS](css/css.md)
 - [Optimisation](compilateur/compilateur.md)

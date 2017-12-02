@@ -21,3 +21,9 @@
 ![install](video/install-windows.gif)
 
 
+## Configuration de base
+
+````
+git config --global user.name "votre pseudo"
+git config --global user.email votre@email
+````

@@ -18,7 +18,7 @@
 
 ## Installation Windows
 
-![install](video/install-windows.gif
+![install](video/install-windows.gif)
 
 
 ## Installation Mac OS

@@ -6,7 +6,7 @@
 - [Éditeur de code](editeur/editeur.md)
 - [Lorem Ipsum](autres/lorem-ipsum.md)
 - [CSS](css/css.md)
-- [Concaténer, minifier, compilier, etc...](compilateur/compilateur.md)
+- [Optimisation](compilateur/compilateur.md)
 - [Outils intéressants](outils/outils.md)
 
  

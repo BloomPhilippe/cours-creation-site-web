@@ -2,7 +2,6 @@
 
 ## Table des matières
 
-
 - [Éditeur de code](editeur/editeur.md)
 - [Lorem Ipsum](autres/lorem-ipsum.md)
 - [CSS](css/css.md)

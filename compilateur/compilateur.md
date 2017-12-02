@@ -1,4 +1,6 @@
-# Concaténer, minifier, compilier, etc...
+# Optimisation
+
+## Concaténer, minifier, compilier, etc...
 
 Lorsqu'on crée une application Web, vous avez besoin de concaténer, minimifier ou effectuer d'autres tâches avec vos fichiers CSS et Javascript afin de rendre plus légère votre application.
 Cela permettra aux navigateurs de charger vos sites plus rapidement !

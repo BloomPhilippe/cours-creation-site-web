@@ -5,6 +5,13 @@
 - Il a été créé par [Linus Torvalds](https://fr.wikipedia.org/wiki/Linus_Torvalds) et [Andrew Morton](https://fr.wikipedia.org/wiki/Andrew_Morton), créateurs du noyau Linux
 - Il fonctionne également hors ligne
 - Il est décentralisé, ce qui veut dire que chaque personne possède son propre historique
-- Il permet d'avoir plusieurs architectures ([plus d'infos ici](https://git-scm.com/about/distributed))
+- Il permet d'avoir plusieurs architectures, méthode de travail ([plus d'infos ici](https://git-scm.com/about/distributed))
+
+**Site officiel** : [ici](https://git-scm.com/)
+
+**Lien de téléchargement** : [ici](https://git-scm.com/downloads)
 
 
+## Installation Windows
+
+![install](video/install-windows.gif)

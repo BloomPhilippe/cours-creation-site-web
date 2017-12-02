@@ -18,6 +18,11 @@
 
 ## Installation Windows
 
+![install](video/install-windows.gif
+
+
+## Installation Mac OS
+
 ![install](video/install-windows.gif)
 
 
@@ -27,3 +32,11 @@
 git config --global user.name "votre pseudo"
 git config --global user.email votre@email
 ````
+
+Ou via l'éditeur de texte
+
+````
+git config --global -e
+````
+
+

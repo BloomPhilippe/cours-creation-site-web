@@ -40,10 +40,13 @@ git config --global -e
 ````
 
 
-## Commandes de bas
+## Documents
 
 
 ![Commandes de base - PDF](file/github-git-cheat-sheet.pdf)
+[Guide utile](http://rogerdudler.github.io/git-guide/index.fr.html)
+
+
 
 
 

@@ -40,4 +40,10 @@ git config --global -e
 ````
 
 
+## Commandes de bas
+
+
+![cheatsheet](file/github-git-cheat-sheet.pdf)
+
+
 

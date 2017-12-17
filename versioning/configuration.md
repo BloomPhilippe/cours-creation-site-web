@@ -1,6 +1,6 @@
 # Configuration
 
-## niveaux de configurations
+## Niveaux de configurations
 
 Il y a trois niveaux de configurations :
 

@@ -19,6 +19,6 @@ Exemple de résultat de la commande ``git status`` :
 
 Vous constatez que les fichiers indiqués en verts sont ceux qui ont été ajoutés via ``git add``.
 
-Les fichiers en rouges sont ceux qui n'ont pas encore été ajoutés.
+Les fichiers ou dossiers en rouges sont ceux qui n'ont pas encore été ajoutés.
 
 

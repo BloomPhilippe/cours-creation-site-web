@@ -26,18 +26,11 @@
 ![install](video/install-macos.gif)
 
 
-## Configuration de base
 
-````
-git config --global user.name "votre pseudo"
-git config --global user.email votre@email
-````
+## Table des matières
 
-Ou via l'éditeur de texte
+- [Configuration](configuration.md)
 
-````
-git config --global -e
-````
 
 
 ## Documents

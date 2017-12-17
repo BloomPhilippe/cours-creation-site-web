@@ -4,7 +4,7 @@
 
 .1 Le niveau système
 
-   Ce niveau est le premier que Git va vérifier.
+   Ce niveau est le premier que Git va vérifier, il est commun à tous les utilisateurs de cette ordinateur.
 
    Exemple d'ajout de variable pour ce niveau :
    
@@ -37,6 +37,16 @@
    
 
 .3 le niveau dépôt
+
+   Ce niveau se situe dans le répertoire du projet, il permet d'avoir des configurations différentes par projet...
+   
+   Exemple d'ajout de variable pour ce niveau :
+     
+   ````css
+    git config --local user.name "votre pseudo"
+   ````
+   
+   Pour effectuer la commande ci-dessus, il faut se trouver dans le répertoire du projet en cours de modififcation.
 
 
 

@@ -99,4 +99,35 @@ Vous pouvez également trouver d'autres exemples [ici](https://git-scm.com/book/
     
     La valeur 5 est en dixièmes de seconde donc Git executera la commande qu'il pense être bonne au bout de 0.5 secondes...
     
-     
+    
+- Activer ou non la couleur pour certains résultats de commandes
+
+    **Activer :**
+    
+    ````
+    git config --global color.diff true
+    ````
+    
+    **Désactiver :**
+    
+    ````
+    git config --global color.diff false
+    ````
+    
+- Modifier la couleur et le style des affichages
+
+    **Pour les diff :**
+        
+    ````
+    git config --global color.diff.meta "blue black bold"
+    ````
+    
+- Formatage et espaces blancs
+
+  Pour les personnes travaillant sur Windows, il est fortement recommandé d'ajouter la variable ci-dessous :
+  
+  ````
+  git config --global core.autocrlf true
+  ````
+  
+  Vous trouverez plus d'informations [ici](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Configuration-de-Git?#_formatage_et_espaces_blancs)

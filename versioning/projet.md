@@ -1,5 +1,11 @@
 # Création d'un nouveau projet
 
+La première étape est initialiser Git dans le dossier de votre projet via la commande ci-dessous :
+
+````
+git init
+````
+
 Un projet Git est composé de trois zones :
 
 - Le répertoire de travail
@@ -36,3 +42,10 @@ Un projet Git est composé de trois zones :
   Le dépôt est le dossier caché nommé .git, il permet de stocker toutes les modifications, versions, branches, etc...
   
   Pour passer de l'index au dépôt, il faut effectuer un ``git commit``
+  
+  
+**Schéma fonctionnel**
+======================
+
+![schema](image/schemas-2.png)
+ 

@@ -131,3 +131,10 @@ Vous pouvez également trouver d'autres exemples [ici](https://git-scm.com/book/
   ````
   
   Vous trouverez plus d'informations [ici](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Configuration-de-Git?#_formatage_et_espaces_blancs)
+  
+
+
+
+---
+
+[:back:](git.md) | [:soon:](projet.md)

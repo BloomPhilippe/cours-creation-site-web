@@ -79,4 +79,13 @@ Un projet Git est composé de trois zones :
 ======================
 
 ![schema](image/schemas-2.png)
+
+
+
+
+
+
+---
+
+[:back:](configuration.md) | [:soon:](modifications.md)
  

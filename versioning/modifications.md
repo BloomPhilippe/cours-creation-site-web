@@ -22,3 +22,7 @@ Vous constatez que les fichiers indiqués en verts sont ceux qui ont été ajout
 Les fichiers ou dossiers en rouges sont ceux qui n'ont pas encore été ajoutés.
 
 
+
+## Créer un commit
+
+

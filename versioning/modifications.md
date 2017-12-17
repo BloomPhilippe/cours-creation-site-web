@@ -42,3 +42,8 @@ Pour effectuer un commit, il y a plusieurs manières :
 - Avec la commande ``git commit --amend``, celle-ci va greffé les dernières modifications au dernier commit évitant ainsi de créer trop de commit
 
 
+## Voir les derniers commit
+
+Afin d'afficher les derniers commit, vous pouvez utiliser la commande ``git log``
+
+![git status](image/git-log.png)

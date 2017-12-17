@@ -22,7 +22,7 @@ Un projet Git est composé de trois zones :
     `-- js
     |   `-- main.js
     |
-    |-- index.html    
+    |-- exemple.html    
     ````
 
 

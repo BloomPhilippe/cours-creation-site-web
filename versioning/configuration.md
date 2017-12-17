@@ -1,6 +1,8 @@
 # Configuration
 
-## Il y a trois niveaux de configurations
+## niveaux de configurations
+
+Il y a trois niveaux de configurations :
 
 .1 Le niveau système
 

@@ -43,6 +43,37 @@ Un projet Git est composé de trois zones :
   
   Pour passer de l'index au dépôt, il faut effectuer un ``git commit``
   
+  Exemple de structure du dossier du dépôt (.git) :
+  
+  ````
+  |-- HEAD
+  |-- config
+  |-- description
+  |-- hooks
+  |   |-- applypatch-msg.sample
+  |   |-- commit-msg.sample
+  |   |-- fsmonitor-watchman.sample
+  |   |-- post-update.sample
+  |   |-- pre-applypatch.sample
+  |   |-- pre-commit.sample
+  |   |-- pre-push.sample
+  |   |-- pre-rebase.sample
+  |   |-- pre-receive.sample
+  |   |-- prepare-commit-msg.sample
+  |   `-- update.sample
+  |-- index
+  |-- info
+  |   `-- exclude
+  |-- objects
+  |   |-- e6
+  |   |   `-- 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+  |   |-- info
+  |   `-- pack
+  `-- refs
+      |-- heads
+      `-- tags
+  ````
+  
   
 **Schéma fonctionnel**
 ======================

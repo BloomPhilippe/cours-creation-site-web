@@ -30,6 +30,7 @@
 ## Table des matières
 
 - [Configuration](configuration.md)
+- [Création d'un nouveau projet](projet.md)
 
 
 

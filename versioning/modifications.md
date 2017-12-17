@@ -30,7 +30,9 @@ Un commit est un ensemble de modifications qui correspondents à une fonctionnal
 Donc si vous travaillez sur **deux fonctionnalités**, vous devez effectuer **deux commit** différents !
 
 Un commit est **obligatoirement** accompagné d'un message. 
+
 Ce message doit être le plus clair possible.
+
 Vous trouverez un exemple de message ci-dessous :
 
 ![message](image/git-message.png)

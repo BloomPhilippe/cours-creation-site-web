@@ -10,7 +10,7 @@ Il y a trois niveaux de configurations :
 
    Exemple d'ajout de variable pour ce niveau :
    
-   ````css
+   ````
     git config --system core.editor vim
    ````
 
@@ -19,7 +19,7 @@ Il y a trois niveaux de configurations :
    Ce niveau se situe dans le répertoire (dossier) utilisateur. 
    Pour aller dans ce répertoire via les ligne de commande, il suffit de faire :
    
-   ````css
+   ````
     cd ~
    ````
    
@@ -33,7 +33,7 @@ Il y a trois niveaux de configurations :
    
    Exemple d'ajout de variable pour ce niveau :
       
-  ````css
+  ````
    git config --global user.name "votre pseudo"
   ````
    
@@ -44,7 +44,7 @@ Il y a trois niveaux de configurations :
    
    Exemple d'ajout de variable pour ce niveau :
      
-   ````css
+   ````
     git config --local user.name "votre pseudo"
    ````
    
@@ -52,7 +52,7 @@ Il y a trois niveaux de configurations :
 
 
 
-# Configuration minimale
+# Configurations minimales
 
 La première chose à effectuer est d'ajouter la personne qui sera en charge des modifications sur cette ordinateur. 
 Ainsi chaque commit sera accompagné du pseudonyme de la personne qui à effectué les changements.
@@ -69,3 +69,34 @@ Ou via l'éditeur de texte
 ````
 git config --global -e
 ````
+
+
+# Configurations secondaires
+
+Ci-dessous, vous trouverez quelques exemple de variables configurations. 
+Vous pouvez également trouver d'autres exemples [ici](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Configuration-de-Git)
+
+- Choisir l'éditeur de texte lorsque Git ouvre un fichier
+
+    ````
+    git config --global core.editor "vim"
+    ````
+   
+   [Plus de détails ici](https://help.github.com/articles/associating-text-editors-with-git/)
+   
+   
+- Ajouter un gitignore global à tous les projets, il faut biensûre créer ce fichier au préalable
+
+    ````
+    git config --global core.excludesfile '~/.gitignore_global'
+    ````
+    
+- Si vous souhaitez que Git vous aide à corriger vos commandes en cas d'erreur
+
+    ````
+    git config --global help.autocorrect 5
+    ````
+    
+    La valeur 5 est en dixièmes de seconde donc Git executera la commande qu'il pense être bonne au bout de 0.5 secondes...
+    
+     

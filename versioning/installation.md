@@ -12,3 +12,11 @@ Cependant, j'ai ajouté ci-dessous un vidéo pour Windows et une autre pour macO
 ## Installation Mac OS
 
 ![install](video/install-macos.gif)
+
+
+
+
+
+---
+
+[:back:](git.md) | [:soon:](configuration.md)

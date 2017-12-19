@@ -1,5 +1,9 @@
 # Configuration
 
+J'énumére quelques configurations importantes ci-dessous mais 
+vous pouvez obtenir un complément d'information sur le site officel en cliquant [ici](https://git-scm.com/book/fr/v1/Personnalisation-de-Git-Configuration-de-Git)
+
+
 ## Niveaux de configurations
 
 Il y a trois niveaux de configurations :

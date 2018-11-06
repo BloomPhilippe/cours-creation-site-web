@@ -85,7 +85,7 @@
 1. La première balise
 
     ````css
-    p:first-child {
+    div:first-child {
        background-color: #3c763d;
     }
     ````

@@ -8,5 +8,6 @@
 - [Versioning](versioning/git.md)
 - [Optimisation](compilateur/compilateur.md)
 - [Outils intéressants](outils/outils.md)
+- [Debug](debug/debug.md)
 
  

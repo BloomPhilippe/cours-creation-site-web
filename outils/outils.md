@@ -28,6 +28,18 @@
 
     - Ce site vous permet de vous entrainer à taper au clavier plus vite.
     
+- [DATADOG](https://www.datadoghq.com/)
+
+    - Outils de monitoring
+    
+- [RabbitMQ](https://www.rabbitmq.com/)
+
+    - Gestion de queue
+    
+- [supervisor](http://supervisord.org/)
+
+    - Gestion des process en arrière plan
+    
 
 
 

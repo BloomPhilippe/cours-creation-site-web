@@ -15,7 +15,7 @@
 - [Configuration](configuration.md)
 - [Création d'un nouveau projet](projet.md)
 - [Modifications du projet](modifications.md)
-- [Documents & liens utiles](doc.md)
+- [Documents & liens utiles](Doc.md)
 
 
 
